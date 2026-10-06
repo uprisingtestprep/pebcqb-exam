@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "clinical_care",
+    "front": "What home blood pressure average does Hypertension Canada consider hypertensive, and how is it measured?",
+    "back": "An average of 130/80 mmHg or higher under the 2025 guideline. Measure twice each morning and evening for 7 days, discard the first day, and average the rest. Use a validated upper arm device."
+  },
+  {
+    "id": 2,
+    "domain": "clinical_care",
+    "front": "Under the 2025 Hypertension Canada guideline, what automated office blood pressure (AOBP) value defines hypertension?",
+    "back": "130/80 mmHg or higher. The 2025 guideline uses the same 130/80 threshold for AOBP, daytime ambulatory and home readings. AOBP is taken unattended with the patient resting alone for 5 minutes and is the preferred office method."
+  },
+  {
+    "id": 3,
+    "domain": "clinical_care",
+    "front": "What is the Hypertension Canada blood pressure target for most patients with diabetes?",
+    "back": "Below 130/80 mmHg. Treatment is started at 130/80 or higher in diabetes, and an ACE inhibitor or ARB is favoured when there is albuminuria or cardiovascular disease."
+  },
+  {
+    "id": 4,
+    "domain": "clinical_care",
+    "front": "Which drug classes are first-line for uncomplicated hypertension in adults under 60 without a compelling indication?",
+    "back": "Thiazide or thiazide-like diuretic, ACE inhibitor, ARB, or long-acting dihydropyridine calcium channel blocker. Beta-blockers are not first-line in patients aged 60 and older without a compelling indication."
+  },
+  {
+    "id": 5,
+    "domain": "clinical_care",
+    "front": "Which antihypertensives are avoided in pregnancy, and which are preferred?",
+    "back": "Avoid ACE inhibitors, ARBs, and direct renin inhibitors because of fetal toxicity. Preferred options are methyldopa, labetalol, and long-acting nifedipine."
+  },
+  {
+    "id": 6,
+    "domain": "clinical_care",
+    "front": "Which patients have a statin indication regardless of LDL-C under the CCS dyslipidemia guideline?",
+    "back": "Clinical atherosclerotic cardiovascular disease, and most patients with diabetes aged 40 and older. Also those with LDL-C of 5.0 mmol/L or higher, and chronic kidney disease aged 50 and older."
+  },
+  {
+    "id": 7,
+    "domain": "clinical_care",
+    "front": "What are the CCS lipid targets for high-risk patients on statin therapy?",
+    "back": "LDL-C below 2.0 mmol/L or a 50% reduction from baseline. Alternative targets are apoB below 0.8 g/L or non-HDL-C below 2.6 mmol/L. Use these to judge whether to add therapy."
+  },
+  {
+    "id": 8,
+    "domain": "clinical_care",
+    "front": "When is ezetimibe or a PCSK9 inhibitor added to statin therapy?",
+    "back": "Add ezetimibe when the target is not met on the maximally tolerated statin. Add a PCSK9 inhibitor for ASCVD or familial hypercholesterolemia still above target despite statin plus ezetimibe."
+  },
+  {
+    "id": 9,
+    "domain": "clinical_care",
+    "front": "Which P2Y12 inhibitors are preferred over clopidogrel with aspirin after acute coronary syndrome, and for how long?",
+    "back": "Ticagrelor or prasugrel, with aspirin, usually for 12 months. Clopidogrel is used when those are contraindicated, not tolerated, or when oral anticoagulation is also needed."
+  },
+  {
+    "id": 10,
+    "domain": "clinical_care",
+    "front": "What cautions apply to prasugrel and to clopidogrel with proton pump inhibitors?",
+    "back": "Prasugrel is contraindicated with prior stroke or TIA and needs caution at age 75 or older or weight under 60 kg. Omeprazole reduces clopidogrel activation via CYP2C19, so pantoprazole is preferred."
+  },
+  {
+    "id": 11,
+    "domain": "clinical_care",
+    "front": "How must nitrate therapy be scheduled to prevent tolerance in stable angina?",
+    "back": "Allow a nitrate-free interval of at least 8 to 12 hours daily, for example by removing the patch overnight. Continuous exposure causes tolerance and loss of antianginal effect."
+  },
+  {
+    "id": 12,
+    "domain": "clinical_care",
+    "front": "How long must a patient wait between a nitrate and a PDE5 inhibitor, and why?",
+    "back": "Avoid together because of severe hypotension. Wait at least 24 hours after nitrates before sildenafil or vardenafil, and 48 hours before tadalafil."
+  },
+  {
+    "id": 13,
+    "domain": "clinical_care",
+    "front": "What are the four pillars of therapy for heart failure with reduced ejection fraction?",
+    "back": "ACE inhibitor, ARB, or ARNI; evidence-based beta-blocker (bisoprolol, carvedilol, or metoprolol succinate); mineralocorticoid receptor antagonist; and an SGLT2 inhibitor (dapagliflozin or empagliflozin)."
+  },
+  {
+    "id": 14,
+    "domain": "clinical_care",
+    "front": "What washout is required when switching between an ACE inhibitor and sacubitril/valsartan?",
+    "back": "Stop the ACE inhibitor at least 36 hours before starting sacubitril/valsartan, because combining them raises the risk of angioedema. No washout is needed when switching from an ARB."
+  },
+  {
+    "id": 15,
+    "domain": "clinical_care",
+    "front": "How should a beta-blocker be started in heart failure with reduced ejection fraction?",
+    "back": "Start at a low dose once the patient is euvolemic and stable, then double the dose about every 2 weeks as tolerated toward the target dose. Do not start during acute decompensation."
+  },
+  {
+    "id": 16,
+    "domain": "clinical_care",
+    "front": "What monitoring is needed after starting or increasing an ACE inhibitor, ARB, or MRA in heart failure?",
+    "back": "Check potassium and creatinine within 1 to 2 weeks. A creatinine rise up to about 30% is acceptable. Avoid an MRA if potassium is above 5.0 mmol/L or eGFR is under 30 mL/min."
+  },
+  {
+    "id": 17,
+    "domain": "clinical_care",
+    "front": "Which drugs worsen heart failure and should be avoided in HFrEF?",
+    "back": "NSAIDs, thiazolidinediones (pioglitazone), and non-dihydropyridine calcium channel blockers (verapamil, diltiazem). NSAIDs cause fluid retention and blunt diuretic and ACE inhibitor effects."
+  },
+  {
+    "id": 18,
+    "domain": "clinical_care",
+    "front": "What weight change should prompt a heart failure patient to contact the care team?",
+    "back": "A gain of about 2 kg (5 lb) in a week, or 1 kg (2 lb) in a day, signals fluid retention. Daily morning weights after voiding guide diuretic adjustment."
+  },
+  {
+    "id": 19,
+    "domain": "clinical_care",
+    "front": "Under the CCS CHADS-65 approach, who with atrial fibrillation should receive oral anticoagulation?",
+    "back": "Patients aged 65 or older, or younger patients with heart failure, hypertension, diabetes, or prior stroke or TIA. A DOAC is preferred over warfarin unless there is a mechanical valve or moderate to severe mitral stenosis."
+  },
+  {
+    "id": 20,
+    "domain": "clinical_care",
+    "front": "What are the rate-control options and the usual resting heart rate target in atrial fibrillation?",
+    "back": "Beta-blockers or non-dihydropyridine calcium channel blockers (avoid the latter in HFrEF), with digoxin as an add-on. A lenient target is a resting heart rate below 100 beats per minute."
+  },
+  {
+    "id": 21,
+    "domain": "clinical_care",
+    "front": "When is apixaban dose-reduced to 2.5 mg twice daily for atrial fibrillation?",
+    "back": "When the patient meets at least two of three criteria: age 80 or older, weight 60 kg or less, serum creatinine 133 umol/L or higher. Otherwise the dose is 5 mg twice daily."
+  },
+  {
+    "id": 22,
+    "domain": "clinical_care",
+    "front": "How should rivaroxaban be taken for atrial fibrillation, and when is the dose reduced?",
+    "back": "20 mg once daily with the evening meal, because food improves absorption. Reduce to 15 mg once daily with the evening meal when creatinine clearance is 15 to 49 mL/min."
+  },
+  {
+    "id": 23,
+    "domain": "clinical_care",
+    "front": "What is the specific reversal agent for dabigatran, and what key interaction and handling rule applies to it?",
+    "back": "Idarucizumab reverses dabigatran. Avoid P-glycoprotein inducers such as rifampin. The capsules must stay in the original container and never be opened, because exposure raises absorption."
+  },
+  {
+    "id": 24,
+    "domain": "clinical_care",
+    "front": "What INR range is targeted for warfarin in atrial fibrillation or venous thromboembolism, and for a mechanical mitral valve?",
+    "back": "INR 2.0 to 3.0 for atrial fibrillation and VTE. Mechanical mitral valves usually need a higher target of 2.5 to 3.5, because of greater thromboembolic risk."
+  },
+  {
+    "id": 25,
+    "domain": "clinical_care",
+    "front": "Which common antibiotics and other drugs raise INR in patients taking warfarin?",
+    "back": "Metronidazole, trimethoprim-sulfamethoxazole, ciprofloxacin, and amiodarone raise INR and bleeding risk. Rifampin lowers INR by inducing metabolism. Consistent vitamin K intake matters more than avoiding greens."
+  },
+  {
+    "id": 26,
+    "domain": "clinical_care",
+    "front": "How is major bleeding on warfarin managed?",
+    "back": "Stop warfarin, give vitamin K 5 to 10 mg IV, and give 4-factor prothrombin complex concentrate for rapid reversal. Vitamin K alone acts too slowly, taking several hours."
+  },
+  {
+    "id": 27,
+    "domain": "clinical_care",
+    "front": "How long is anticoagulation usually given for VTE provoked by a major transient risk factor such as surgery?",
+    "back": "Three months, then stop. The risk factor has resolved, so the recurrence risk is low and extended therapy adds bleeding risk without enough benefit."
+  },
+  {
+    "id": 28,
+    "domain": "clinical_care",
+    "front": "Which anticoagulants are preferred for cancer-associated VTE, and what tumour types raise bleeding concern with DOACs?",
+    "back": "Apixaban, rivaroxaban, edoxaban or LMWH. Luminal GI and GU tumours raise DOAC bleeding risk, so LMWH or apixaban is often favoured there."
+  },
+  {
+    "id": 29,
+    "domain": "clinical_care",
+    "front": "Which anticoagulant is used to treat VTE during pregnancy, and why are warfarin and DOACs avoided?",
+    "back": "LMWH. It does not cross the placenta. Warfarin crosses it and is teratogenic, and DOACs lack adequate pregnancy safety data and cross the placenta."
+  },
+  {
+    "id": 30,
+    "domain": "clinical_care",
+    "front": "What antiplatelet strategy is used early after a minor noncardioembolic stroke or high-risk TIA?",
+    "back": "ASA plus clopidogrel for 21 days started within 24 hours, then a single antiplatelet long term. Longer dual therapy raises major bleeding without added benefit."
+  },
+  {
+    "id": 31,
+    "domain": "clinical_care",
+    "front": "What is the baseline drug therapy for symptomatic peripheral arterial disease to reduce cardiovascular events?",
+    "back": "A single antiplatelet (ASA or clopidogrel) plus a high-intensity statin. Low-dose rivaroxaban 2.5 mg twice daily with ASA is an option in selected patients without high bleeding risk."
+  },
+  {
+    "id": 32,
+    "domain": "clinical_care",
+    "front": "Which baseline tests are recommended when starting amiodarone, and what is monitored afterward?",
+    "back": "Baseline chest x-ray, pulmonary function tests, TSH, liver enzymes and eye exam. Then TSH and liver tests about every 6 months, and watch for cough or dyspnea (pulmonary toxicity)."
+  },
+  {
+    "id": 33,
+    "domain": "clinical_care",
+    "front": "What happens to digoxin and warfarin effect when amiodarone is added, and what is the usual adjustment?",
+    "back": "Both rise through reduced clearance and CYP2C9 inhibition. Digoxin dose is often cut about 50% and warfarin 30 to 50%, with closer INR and level monitoring."
+  },
+  {
+    "id": 34,
+    "domain": "clinical_care",
+    "front": "Which electrolyte disturbance most increases the risk of digoxin toxicity, and what are the classic signs?",
+    "back": "Hypokalemia (also hypomagnesemia and hypercalcemia). Signs: nausea, anorexia, visual changes such as yellow-green halos, confusion and arrhythmias. Antidote is digoxin immune Fab."
+  },
+  {
+    "id": 35,
+    "domain": "clinical_care",
+    "front": "Why should simvastatin be avoided with clarithromycin, itraconazole or other strong CYP3A4 inhibitors?",
+    "back": "Statin levels rise sharply, increasing the risk of myopathy and rhabdomyolysis. Switch to an agent less dependent on CYP3A4 such as rosuvastatin or pravastatin, or pause the statin."
+  },
+  {
+    "id": 36,
+    "domain": "clinical_care",
+    "front": "How does grapefruit juice affect simvastatin, atorvastatin and felodipine?",
+    "back": "It inhibits intestinal CYP3A4, raising drug levels. Simvastatin and felodipine are most affected, so advise avoiding large amounts of grapefruit juice."
+  },
+  {
+    "id": 37,
+    "domain": "clinical_care",
+    "front": "Which combination of drugs commonly causes hyperkalemia and calls for potassium and creatinine monitoring?",
+    "back": "An ACE inhibitor or ARB with spironolactone, potassium supplements or trimethoprim. Risk is highest in CKD, older adults and diabetes, so check potassium within a week or two."
+  },
+  {
+    "id": 38,
+    "domain": "clinical_care",
+    "front": "Per Diabetes Canada, what is added to metformin in type 2 diabetes with established ASCVD or CKD?",
+    "back": "An SGLT2 inhibitor or GLP-1 receptor agonist with proven cardiovascular or renal benefit. The benefit applies regardless of A1C, so choice is driven by comorbidity."
+  },
+  {
+    "id": 39,
+    "domain": "clinical_care",
+    "front": "What are the key adverse effects and sick day action for SGLT2 inhibitors?",
+    "back": "Genital mycotic infections, volume depletion and euglycemic ketoacidosis. Hold them during vomiting, diarrhea, poor intake or before surgery. Benefits include heart failure and CKD protection."
+  },
+  {
+    "id": 40,
+    "domain": "clinical_care",
+    "front": "At what eGFR is metformin stopped, and when is the dose reduced?",
+    "back": "Stop below 30 mL/min/1.73 m2 and reduce the dose at 30 to 45. Hold around iodinated contrast with reduced eGFR. Long-term use can lower vitamin B12."
+  },
+  {
+    "id": 41,
+    "domain": "clinical_care",
+    "front": "Which sulfonylurea carries a lower hypoglycemia risk, and which should be avoided in older adults or CKD?",
+    "back": "Gliclazide has lower hypoglycemia risk. Glyburide (glibenclamide) has long-acting active metabolites and should be avoided in older adults and renal impairment."
+  },
+  {
+    "id": 42,
+    "domain": "clinical_care",
+    "front": "Why is pioglitazone contraindicated in heart failure, and what other adverse effects occur?",
+    "back": "It causes fluid retention that can precipitate or worsen heart failure. Also weight gain, peripheral edema and increased fracture risk, especially in women."
+  },
+  {
+    "id": 43,
+    "domain": "clinical_care",
+    "front": "Which doses of basal insulin are titrated according to which glucose reading?",
+    "back": "Basal insulin (glargine, detemir, degludec, NPH at bedtime) is titrated to the fasting plasma glucose. Raise the dose gradually until the fasting target is reached without hypoglycemia."
+  },
+  {
+    "id": 44,
+    "domain": "clinical_care",
+    "front": "When is a premixed insulin given relative to meals?",
+    "back": "Premixes with a rapid-acting analog (such as lispro or aspart mixes) are given right before the meal. Premixes containing regular insulin are given about 30 minutes before eating."
+  },
+  {
+    "id": 45,
+    "domain": "clinical_care",
+    "front": "What is the 15 gram rule for treating mild to moderate hypoglycemia?",
+    "back": "If glucose is below 4.0 mmol/L, take 15 g of fast carbohydrate (such as 3 to 4 glucose tablets), recheck in 15 minutes, repeat if still below 4.0, then eat a snack."
+  },
+  {
+    "id": 46,
+    "domain": "clinical_care",
+    "front": "How is severe hypoglycemia treated when the person cannot swallow safely?",
+    "back": "Glucagon (1 mg IM or subcut, or intranasal 3 mg) given by a caregiver, then call emergency services. Give nothing by mouth to an unresponsive person, and feed once alert."
+  },
+  {
+    "id": 47,
+    "domain": "clinical_care",
+    "front": "What does Diabetes Canada advise insulin users to do about glucose before driving?",
+    "back": "Check glucose before driving and every 4 hours on long trips. Drive only if 5.0 mmol/L or higher; if 4.0 to 4.9, eat carbohydrate first, and if below 4.0, treat and wait."
+  },
+  {
+    "id": 48,
+    "domain": "clinical_care",
+    "front": "How is a correction (sensitivity) factor estimated for rapid-acting insulin in mmol/L?",
+    "back": "Divide 100 by the total daily insulin dose. For a TDD of 50 units, one unit lowers glucose about 2 mmol/L. Individualize with real readings."
+  },
+  {
+    "id": 49,
+    "domain": "clinical_care",
+    "front": "When should a person with type 1 diabetes check ketones, and which blood ketone result needs urgent help?",
+    "back": "During illness or when glucose stays above about 14 mmol/L. Per Diabetes Canada, a blood ketone of 1.5 mmol/L or higher needs urgent medical contact; above 3.0, emergency care."
+  },
+  {
+    "id": 50,
+    "domain": "clinical_care",
+    "front": "What does the sick day mnemonic SADMANS stand for, and what is the rule?",
+    "back": "SGLT2 inhibitors, ACE inhibitors, Diuretics, Metformin, ARBs, NSAIDs, Sulfonylureas. Temporarily hold these during dehydrating illness, then restart after 24 to 48 hours of normal eating and drinking."
+  },
+  {
+    "id": 51,
+    "domain": "clinical_care",
+    "front": "When does retinopathy screening start for type 1 and type 2 diabetes in Canada?",
+    "back": "Type 2: at diagnosis. Type 1: 5 years after diagnosis for adults and adolescents 15 and older. Repeat every 1 to 2 years depending on findings."
+  },
+  {
+    "id": 52,
+    "domain": "clinical_care",
+    "front": "How should levothyroxine be taken to maximize absorption, and what happens if it is taken with breakfast or coffee?",
+    "back": "Take it on an empty stomach with water, 30 to 60 minutes before breakfast. Food and coffee reduce absorption, so TSH can rise. Consistent timing every day matters more than the exact clock time."
+  },
+  {
+    "id": 53,
+    "domain": "clinical_care",
+    "front": "Which common products must be separated from levothyroxine, and by how long?",
+    "back": "Separate calcium, iron, magnesium or aluminum antacids, and bile acid resins (cholestyramine) by at least 4 hours. They bind levothyroxine in the gut and lower absorption, raising TSH."
+  },
+  {
+    "id": 54,
+    "domain": "clinical_care",
+    "front": "What happens to levothyroxine requirements in pregnancy, and how is it monitored?",
+    "back": "Requirements usually rise early in pregnancy (often by about 25 to 30%). Patients should not wait for the next visit: check TSH about every 4 weeks in the first half of pregnancy and adjust the dose."
+  },
+  {
+    "id": 55,
+    "domain": "clinical_care",
+    "front": "Which antithyroid drug is preferred in the first trimester of pregnancy, and why?",
+    "back": "Propylthiouracil is preferred in the first trimester because methimazole is linked to birth defects. Methimazole is first-line otherwise, since propylthiouracil carries a risk of severe liver injury."
+  },
+  {
+    "id": 56,
+    "domain": "clinical_care",
+    "front": "What counselling is essential for a patient starting methimazole or propylthiouracil, and what role does propranolol play?",
+    "back": "Report fever, sore throat or mouth ulcers at once: agranulocytosis is possible, so stop the drug and get a CBC with differential. Propranolol controls tremor and palpitations and blocks T4 to T3 conversion."
+  },
+  {
+    "id": 57,
+    "domain": "clinical_care",
+    "front": "How should alendronate be taken to reduce esophageal irritation and improve absorption?",
+    "back": "Take it first thing in the morning with a full glass of plain water, at least 30 minutes before food, drink or other drugs, and stay upright for 30 minutes afterward."
+  },
+  {
+    "id": 58,
+    "domain": "clinical_care",
+    "front": "What is the key safety risk when denosumab is stopped or a dose is delayed?",
+    "back": "Bone loss reverses quickly and multiple vertebral fractures can occur. Give doses every 6 months on schedule, and if stopping, follow with another antiresorptive. Correct low calcium and vitamin D first."
+  },
+  {
+    "id": 59,
+    "domain": "clinical_care",
+    "front": "When may a bisphosphonate drug holiday be considered, and what rare adverse effects drive it?",
+    "back": "After about 5 years of oral (or 3 years of IV zoledronic acid) therapy in patients at lower fracture risk. Long use raises the risk of atypical femur fracture and osteonecrosis of the jaw."
+  },
+  {
+    "id": 60,
+    "domain": "clinical_care",
+    "front": "What BMI eligibility applies to prescribing a GLP-1 agonist such as semaglutide or liraglutide for weight management?",
+    "back": "BMI of 30 kg/m2 or more, or 27 kg/m2 or more with a weight-related condition, alongside diet and activity changes. Titrate slowly to limit nausea, and counsel on pancreatitis and gallbladder symptoms."
+  },
+  {
+    "id": 61,
+    "domain": "clinical_care",
+    "front": "How is orlistat taken, and what vitamin counselling goes with it?",
+    "back": "Take with each main meal containing fat, or up to 1 hour after. Fat-soluble vitamins (A, D, E, K) can be depleted, so take a multivitamin at bedtime or 2 hours apart from the dose."
+  },
+  {
+    "id": 62,
+    "domain": "clinical_care",
+    "front": "Name the main contraindications to naltrexone-bupropion for obesity.",
+    "back": "Uncontrolled hypertension, seizure disorder or conditions that lower seizure threshold, chronic opioid use, and abrupt stopping of alcohol or benzodiazepines. Bupropion also causes insomnia, and blood pressure needs monitoring."
+  },
+  {
+    "id": 63,
+    "domain": "clinical_care",
+    "front": "When does a systemic corticosteroid course risk adrenal suppression, and how should it be stopped?",
+    "back": "Courses beyond about 3 weeks at supraphysiologic doses can suppress the HPA axis. Taper gradually instead of stopping suddenly, and watch for fatigue, nausea, low blood pressure and hypoglycemia during withdrawal."
+  },
+  {
+    "id": 64,
+    "domain": "clinical_care",
+    "front": "What stress dosing advice applies to a patient on long-term prednisone who develops a serious illness or needs surgery?",
+    "back": "The adrenals cannot respond, so the steroid dose must be temporarily increased during significant illness, vomiting or surgery. Patients should carry a steroid card and never skip doses when ill."
+  },
+  {
+    "id": 65,
+    "domain": "clinical_care",
+    "front": "List the SADMANS drugs to hold during a dehydrating illness in a patient with CKD.",
+    "back": "Sulfonylureas, ACE inhibitors, diuretics, metformin, ARBs, NSAIDs and SGLT2 inhibitors. Restart once eating and drinking normally for 24 to 48 hours, to lower the risk of acute kidney injury."
+  },
+  {
+    "id": 66,
+    "domain": "clinical_care",
+    "front": "What are the eGFR cut-offs for CKD stages G3a, G3b, G4 and G5 (mL/min/1.73 m2)?",
+    "back": "G3a is 45 to 59, G3b is 30 to 44, G4 is 15 to 29, and G5 is below 15. Stage G1 and G2 need a kidney damage marker such as albuminuria."
+  },
+  {
+    "id": 67,
+    "domain": "clinical_care",
+    "front": "What is the metformin rule for reduced kidney function?",
+    "back": "Contraindicated when eGFR is below 30 mL/min/1.73 m2 because of lactic acidosis risk. Reassess and consider dose reduction when eGFR falls below 45, and hold it around contrast or acute illness."
+  },
+  {
+    "id": 68,
+    "domain": "clinical_care",
+    "front": "Name common drugs that cause hyperkalemia.",
+    "back": "ACE inhibitors, ARBs, spironolactone and eplerenone, trimethoprim, NSAIDs, potassium supplements and salt substitutes, and heparin. Risk is highest with kidney impairment or combining two of these agents."
+  },
+  {
+    "id": 69,
+    "domain": "clinical_care",
+    "front": "Which drug classes most often cause hyponatremia?",
+    "back": "Thiazide diuretics (the most common), SSRIs, carbamazepine and oxcarbazepine, and desmopressin. Older women on a thiazide are at highest risk, so check sodium 1 to 2 weeks after starting."
+  },
+  {
+    "id": 70,
+    "domain": "clinical_care",
+    "front": "Which drugs cause hypomagnesemia, and what electrolyte problem does it make hard to fix?",
+    "back": "Long-term proton pump inhibitors, loop and thiazide diuretics, cisplatin and amphotericin B. Low magnesium causes hypokalemia and hypocalcemia that will not correct until magnesium is replaced."
+  },
+  {
+    "id": 71,
+    "domain": "clinical_care",
+    "front": "How should timing of colchicine be counselled for an acute gout flare?",
+    "back": "It works best when started within 12 hours of flare onset, at low doses. NSAIDs or oral corticosteroids are alternatives. Avoid colchicine with strong CYP3A4 or P-gp inhibitors such as clarithromycin."
+  },
+  {
+    "id": 72,
+    "domain": "clinical_care",
+    "front": "How is allopurinol started and titrated, and what is the serum urate target for gout?",
+    "back": "Start low (50 to 100 mg daily, lower in CKD) once the flare settles, and titrate to a serum urate below 360 umol/L. Give flare prophylaxis for the first months. Screen HLA-B*58:01 in high-risk groups."
+  },
+  {
+    "id": 73,
+    "domain": "clinical_care",
+    "front": "What empiric outpatient regimens are recommended for community-acquired pneumonia in an adult with comorbidities such as COPD or diabetes?",
+    "back": "Amoxicillin-clavulanate or a second or third generation cephalosporin plus a macrolide or doxycycline, or a respiratory fluoroquinolone (levofloxacin, moxifloxacin) alone. Treat at least 5 days and until afebrile 48 to 72 hours."
+  },
+  {
+    "id": 74,
+    "domain": "clinical_care",
+    "front": "What counselling applies to topical testosterone gel, and which labs are monitored in male hypogonadism?",
+    "back": "Apply to clean dry skin, cover the area, and wash hands, since skin contact can transfer drug to women and children. Monitor testosterone, hematocrit and PSA, as testosterone can cause polycythemia."
+  },
+  {
+    "id": 75,
+    "domain": "clinical_care",
+    "front": "What is the critical interaction with PDE5 inhibitors such as sildenafil and tadalafil?",
+    "back": "Nitrates (including nitroglycerin spray) are contraindicated because of severe, life-threatening hypotension. Caution with alpha-blockers: start the lowest dose and separate dosing, and riociguat is also contraindicated."
+  },
+  {
+    "id": 76,
+    "domain": "clinical_care",
+    "front": "Compare when to use alpha-blockers versus 5-alpha reductase inhibitors for BPH, including effect on PSA.",
+    "back": "Alpha-blockers (tamsulosin) relieve symptoms within days. Finasteride and dutasteride shrink large prostates but need about 6 months and lower PSA by roughly 50%, so double the PSA when interpreting it."
+  },
+  {
+    "id": 77,
+    "domain": "clinical_care",
+    "front": "What are the first-line oral options for uncomplicated cystitis in a non-pregnant woman, with durations?",
+    "back": "Nitrofurantoin 100 mg twice daily for 5 days, TMP-SMX DS twice daily for 3 days (if local resistance is low), or fosfomycin 3 g as a single dose."
+  },
+  {
+    "id": 78,
+    "domain": "clinical_care",
+    "front": "When should asymptomatic bacteriuria be screened for and treated?",
+    "back": "Only in pregnancy and before urologic procedures with mucosal bleeding. Do not treat in older adults, diabetes, or catheterized patients, since treatment adds resistance and adverse effects without benefit."
+  },
+  {
+    "id": 79,
+    "domain": "clinical_care",
+    "front": "Which patients with a purulent skin abscess need an antibiotic in addition to incision and drainage?",
+    "back": "Those with systemic signs (fever, tachycardia), extensive or multiple lesions, immunosuppression, extremes of age, or poor response to drainage alone. Drainage is the primary treatment."
+  },
+  {
+    "id": 80,
+    "domain": "clinical_care",
+    "front": "What antibiotic is used for prophylaxis or treatment of a human or animal bite wound, and why?",
+    "back": "Amoxicillin-clavulanate, because it covers Pasteurella, streptococci, staphylococci, and oral anaerobes. Also check tetanus immunization status and the need for rabies assessment with animal bites."
+  },
+  {
+    "id": 81,
+    "domain": "clinical_care",
+    "front": "What is the first-line regimen for uncomplicated genital chlamydia in a non-pregnant adult?",
+    "back": "Doxycycline 100 mg twice daily for 7 days. Azithromycin 1 g single dose is an alternative and is used in pregnancy, when doxycycline is contraindicated."
+  },
+  {
+    "id": 82,
+    "domain": "clinical_care",
+    "front": "What is the recommended treatment for uncomplicated gonorrhea in Canada?",
+    "back": "Ceftriaxone 500 mg IM as a single dose. Test of cure is advised because of rising resistance, and sexual partners from the previous 60 days should be notified and treated."
+  },
+  {
+    "id": 83,
+    "domain": "clinical_care",
+    "front": "How is syphilis treated, and how does the regimen differ by stage?",
+    "back": "Benzathine penicillin G 2.4 million units IM. Early syphilis needs one dose; late latent or unknown duration needs three weekly doses. Penicillin allergy in pregnancy requires desensitization."
+  },
+  {
+    "id": 84,
+    "domain": "clinical_care",
+    "front": "What are the preferred treatments for an initial episode of Clostridioides difficile infection?",
+    "back": "Oral vancomycin 125 mg four times daily or fidaxomicin 200 mg twice daily, each for 10 days. Fidaxomicin has lower recurrence rates. Metronidazole is only an alternative when these are unavailable."
+  },
+  {
+    "id": 85,
+    "domain": "clinical_care",
+    "front": "What practical measures help prevent C. difficile spread and recurrence?",
+    "back": "Stop unneeded antibiotics and reassess PPIs, which raise risk. Wash hands with soap and water, because alcohol hand rub does not kill spores, and use contact precautions with a dedicated room."
+  },
+  {
+    "id": 86,
+    "domain": "clinical_care",
+    "front": "What is first-line treatment for group A streptococcal pharyngitis, and for how long?",
+    "back": "Penicillin V for 10 days. Amoxicillin is an acceptable alternative. Confirm with a throat swab guided by the McIsaac score, since most sore throats are viral."
+  },
+  {
+    "id": 87,
+    "domain": "clinical_care",
+    "front": "When can acute otitis media be managed with watchful waiting or a delayed prescription?",
+    "back": "In children older than 6 months with mild symptoms and unilateral disease, with reassessment in 48 hours. Treat with high-dose amoxicillin (75 to 90 mg/kg/day) if no improvement."
+  },
+  {
+    "id": 88,
+    "domain": "clinical_care",
+    "front": "When is an antibiotic considered for acute rhinosinusitis?",
+    "back": "When symptoms persist beyond 10 days without improvement, are severe (high fever with purulent discharge, facial pain), or worsen after initial improvement. Most cases are viral and need symptomatic care only."
+  },
+  {
+    "id": 89,
+    "domain": "clinical_care",
+    "front": "What is the preferred first-line regimen for Helicobacter pylori eradication?",
+    "back": "Bismuth quadruple therapy for 14 days: a PPI, bismuth, metronidazole, and tetracycline. Clarithromycin triple therapy is reserved for low clarithromycin resistance and no prior macrolide exposure."
+  },
+  {
+    "id": 90,
+    "domain": "clinical_care",
+    "front": "How should patients prepare for H. pylori testing, and when is eradication confirmed?",
+    "back": "Hold PPIs for 2 weeks and antibiotics and bismuth for 4 weeks before a urea breath test or stool antigen. Confirm eradication at least 4 weeks after finishing therapy."
+  },
+  {
+    "id": 91,
+    "domain": "clinical_care",
+    "front": "What is the typical structure of recommended initial antiretroviral therapy for HIV?",
+    "back": "Two nucleoside reverse transcriptase inhibitors plus an integrase inhibitor, such as dolutegravir or bictegravir, often as a single tablet. Adherence is vital to prevent resistance."
+  },
+  {
+    "id": 92,
+    "domain": "clinical_care",
+    "front": "Which common over-the-counter products interact with integrase inhibitors, and how is this managed?",
+    "back": "Polyvalent cations (calcium, iron, magnesium, aluminum, antacids, supplements) chelate the drug and lower absorption. Separate the doses by timing, or take together with food where the monograph allows."
+  },
+  {
+    "id": 93,
+    "domain": "clinical_care",
+    "front": "What are the timing and duration for HIV post-exposure prophylaxis (PEP) and the basic PrEP regimen?",
+    "back": "Start PEP as soon as possible, within 72 hours, and continue 28 days. PrEP is tenofovir with emtricitabine taken daily, with HIV and renal function monitoring."
+  },
+  {
+    "id": 94,
+    "domain": "clinical_care",
+    "front": "Why must hepatitis B status be checked before chemotherapy or rituximab, and what is done if positive?",
+    "back": "Immunosuppression can reactivate hepatitis B. Screen HBsAg, anti-HBc, and anti-HBs. If HBsAg is positive, give prophylactic entecavir or tenofovir during and after therapy."
+  },
+  {
+    "id": 95,
+    "domain": "clinical_care",
+    "front": "What is the goal and typical duration of direct-acting antiviral therapy for hepatitis C?",
+    "back": "Sustained virologic response, meaning undetectable RNA 12 weeks after therapy, which indicates cure. Regimens last 8 to 12 weeks (sofosbuvir/velpatasvir 12 weeks, glecaprevir/pibrentasvir 8 weeks in many patients), and cure rates exceed 95%."
+  },
+  {
+    "id": 96,
+    "domain": "clinical_care",
+    "front": "What is the preferred regimen for latent tuberculosis infection in Canada?",
+    "back": "Rifampin daily for 4 months. Alternatives are isoniazid for 6 to 9 months, given with pyridoxine (vitamin B6), or weekly isoniazid plus rifapentine for 3 months."
+  },
+  {
+    "id": 97,
+    "domain": "clinical_care",
+    "front": "What is the standard regimen for drug-susceptible active pulmonary tuberculosis?",
+    "back": "Isoniazid, rifampin, pyrazinamide, and ethambutol for 2 months, then isoniazid and rifampin for 4 months. Directly observed therapy supports adherence."
+  },
+  {
+    "id": 98,
+    "domain": "clinical_care",
+    "front": "What must be counselled and monitored with rifampin and isoniazid?",
+    "back": "Rifampin is a strong CYP inducer (lowers warfarin, hormonal contraceptives, DOACs) and turns body fluids orange-red. Isoniazid causes hepatotoxicity and neuropathy, so monitor liver tests and give pyridoxine."
+  },
+  {
+    "id": 99,
+    "domain": "clinical_care",
+    "front": "What is the standard treatment for uncomplicated vulvovaginal candidiasis?",
+    "back": "Fluconazole 150 mg orally as a single dose, or a topical azole such as clotrimazole or miconazole. Oral fluconazole is avoided in pregnancy, where topical azoles for 7 days are used."
+  },
+  {
+    "id": 100,
+    "domain": "clinical_care",
+    "front": "What is the usual oral regimen for toenail onychomycosis, and what monitoring applies?",
+    "back": "Terbinafine 250 mg daily for 12 weeks. Check baseline liver enzymes and counsel on hepatotoxicity symptoms. Regrowth takes many months, and confirm the diagnosis with a fungal culture first."
+  },
+  {
+    "id": 101,
+    "domain": "clinical_care",
+    "front": "Which key interaction should be flagged when a patient on warfarin is given fluconazole?",
+    "back": "Fluconazole inhibits CYP2C9 and CYP3A4, raising warfarin effect and bleeding risk. Reduce the warfarin dose or monitor the INR closely, and consider topical therapy where possible."
+  },
+  {
+    "id": 102,
+    "domain": "clinical_care",
+    "front": "What is the standard adult oseltamivir treatment regimen for influenza, and when is it best started?",
+    "back": "75 mg orally twice daily for 5 days (dose reduced in significant renal impairment). Benefit is greatest when started within 48 hours of symptom onset, but high-risk or hospitalized patients may still benefit later."
+  },
+  {
+    "id": 103,
+    "domain": "clinical_care",
+    "front": "What is the valacyclovir regimen for herpes zoster in an adult with normal renal function, and the timing window?",
+    "back": "1000 mg three times daily for 7 days, started ideally within 72 hours of rash onset. Reduce the dose in renal impairment because acyclovir accumulates and can cause neurotoxicity."
+  },
+  {
+    "id": 104,
+    "domain": "clinical_care",
+    "front": "Why must every medication list be screened before dispensing nirmatrelvir/ritonavir for COVID-19?",
+    "back": "Ritonavir is a strong CYP3A4 inhibitor and raises levels of many drugs (some statins, anticoagulants, antiarrhythmics, sedatives). Interacting drugs may need holding or adjustment during the 5 day course."
+  },
+  {
+    "id": 105,
+    "domain": "clinical_care",
+    "front": "What proportion of patients labelled penicillin allergic are truly allergic after formal assessment?",
+    "back": "Fewer than 10 percent. Most labels are outdated or based on benign rash or intolerance. Delabelling through history and a supervised oral amoxicillin challenge in low-risk patients restores access to first-line beta-lactams."
+  },
+  {
+    "id": 106,
+    "domain": "clinical_care",
+    "front": "What drives cross-reactivity between penicillins and cephalosporins, and what is the approximate overall risk?",
+    "back": "Shared R1 side chains, not the beta-lactam ring. Overall cross-reactivity is about 1 to 2 percent. Examples of shared side chains: amoxicillin with cefadroxil and cefprozil, ampicillin with cephalexin."
+  },
+  {
+    "id": 107,
+    "domain": "clinical_care",
+    "front": "A patient has a past anaphylactic reaction to penicillin. Which beta-lactam classes carry low cross-reactivity risk?",
+    "back": "Cefazolin (unique side chain) and carbapenems (under 1 percent) are generally acceptable, as are dissimilar-side-chain cephalosporins such as ceftriaxone. Use clinical judgment, supervision, and avoid similar side-chain agents."
+  },
+  {
+    "id": 108,
+    "domain": "clinical_care",
+    "front": "Which vancomycin monitoring approach is now preferred over trough-only monitoring for serious MRSA infections?",
+    "back": "AUC-guided dosing with a target AUC/MIC of 400 to 600 (assuming MIC 1 mg/L). It reduces nephrotoxicity compared with chasing troughs of 15 to 20 mg/L, which are no longer recommended."
+  },
+  {
+    "id": 109,
+    "domain": "clinical_care",
+    "front": "What are the key toxicity risks and monitoring parameters for aminoglycosides such as gentamicin?",
+    "back": "Nephrotoxicity and ototoxicity (cochlear and vestibular). Monitor serum creatinine, urine output, and levels (trough low before the next dose with extended-interval dosing). Avoid combining with loop diuretics or other nephrotoxins."
+  },
+  {
+    "id": 110,
+    "domain": "clinical_care",
+    "front": "In suspected septic shock, how quickly should effective antimicrobials be given, and what initial fluid is suggested?",
+    "back": "Within 1 hour of recognition. Surviving Sepsis Campaign suggests at least 30 mL/kg of IV crystalloid in the first 3 hours for sepsis-induced hypoperfusion or shock."
+  },
+  {
+    "id": 111,
+    "domain": "clinical_care",
+    "front": "What is the Canadian Thoracic Society preferred reliever approach for adolescents and adults 12 and older with asthma?",
+    "back": "Budesonide-formoterol as needed (or as maintenance and reliever therapy) instead of a SABA alone. Treating with a SABA alone is discouraged because it does not treat airway inflammation."
+  },
+  {
+    "id": 112,
+    "domain": "clinical_care",
+    "front": "What reliever use signals poorly controlled asthma and the need to reassess therapy?",
+    "back": "Needing a reliever more than twice a week, night symptoms, activity limitation, or any exacerbation. First check adherence, inhaler technique, and triggers before stepping up therapy."
+  },
+  {
+    "id": 113,
+    "domain": "clinical_care",
+    "front": "When can asthma controller therapy be stepped down, and what should a written asthma action plan include?",
+    "back": "Consider stepping down after about 3 months of good control. The plan lists daily controller doses, reliever use, zone triggers (symptoms or peak flow versus personal best), and when to seek urgent care."
+  },
+  {
+    "id": 114,
+    "domain": "clinical_care",
+    "front": "What is first-line maintenance bronchodilator therapy for symptomatic COPD in Canada?",
+    "back": "A long-acting bronchodilator: LAMA alone, or LAMA/LABA when symptoms or exacerbations persist. A SABA is used as needed for rescue. ICS monotherapy is never appropriate for COPD."
+  },
+  {
+    "id": 115,
+    "domain": "clinical_care",
+    "front": "When is adding an inhaled corticosteroid to LAMA/LABA favoured in COPD, and what is the main harm?",
+    "back": "Frequent exacerbations on dual bronchodilation, particularly with blood eosinophils of 300 cells/uL or higher or concomitant asthma. Main harm is increased pneumonia risk, so avoid when eosinophils are low."
+  },
+  {
+    "id": 116,
+    "domain": "clinical_care",
+    "front": "What is the usual systemic corticosteroid course for a COPD exacerbation, and which vaccines should patients have?",
+    "back": "Oral prednisone 30 to 40 mg daily for 5 days, with a bronchodilator and antibiotics if sputum purulence or severity warrants. Vaccinate against influenza yearly, pneumococcus, COVID-19, and RSV."
+  },
+  {
+    "id": 117,
+    "domain": "clinical_care",
+    "front": "List the key steps for using a pressurized MDI with a spacer correctly.",
+    "back": "Shake, prime if needed, insert into spacer, press one puff, then breathe in slowly and hold 10 seconds or take 5 to 6 tidal breaths. Wait 30 to 60 seconds before the next puff. Rinse mouth after an ICS."
+  },
+  {
+    "id": 118,
+    "domain": "clinical_care",
+    "front": "How does technique differ for a dry powder inhaler compared with an MDI, and what common errors occur?",
+    "back": "A DPI needs a fast, deep, forceful inhalation, and never a spacer. Do not exhale into the device or store it in a humid bathroom. Common errors: poor inspiratory effort and failing to load the dose."
+  },
+  {
+    "id": 119,
+    "domain": "clinical_care",
+    "front": "Why are intranasal corticosteroids preferred for moderate to severe allergic rhinitis, and how are they used?",
+    "back": "They are the most effective single agent, controlling congestion, sneezing, itching, and rhinorrhea. Use daily, aim away from the septum, and expect full benefit over several days. Regular use outperforms as-needed use."
+  },
+  {
+    "id": 120,
+    "domain": "clinical_care",
+    "front": "What is the usual limit for topical nasal decongestant use, and what happens if it is exceeded?",
+    "back": "Limit oxymetazoline or xylometazoline to about 3 to 5 days. Longer use causes rebound congestion (rhinitis medicamentosa). Oral pseudoephedrine can raise blood pressure and heart rate and is avoided in uncontrolled hypertension."
+  },
+  {
+    "id": 121,
+    "domain": "clinical_care",
+    "front": "What is the correct auto-injector epinephrine dose by weight, and where is it injected?",
+    "back": "0.15 mg for 15 to 30 kg and 0.3 mg for over 30 kg, intramuscularly into the anterolateral mid-thigh (through clothing if needed). Delay in giving epinephrine is the main risk factor for fatal anaphylaxis."
+  },
+  {
+    "id": 122,
+    "domain": "clinical_care",
+    "front": "After using an epinephrine auto-injector for anaphylaxis, what steps must the patient follow?",
+    "back": "Call 911 and go to the emergency department even if symptoms resolve, because biphasic reactions occur. A second dose may be given after 5 to 15 minutes if no improvement. Lie down with legs raised."
+  },
+  {
+    "id": 123,
+    "domain": "clinical_care",
+    "front": "Describe the standard varenicline dosing schedule for smoking cessation.",
+    "back": "0.5 mg daily for 3 days, then 0.5 mg twice daily for 4 days, then 1 mg twice daily, for 12 weeks. Start 1 week before the quit date. Reduce the dose in severe renal impairment. Take after food with water to limit nausea."
+  },
+  {
+    "id": 124,
+    "domain": "clinical_care",
+    "front": "How are nicotine replacement products combined and dosed, and what is a key bupropion contraindication?",
+    "back": "Best results come from a patch plus a short-acting form (gum, lozenge, inhaler). Patch is 21 mg for more than 10 cigarettes daily. Bupropion is contraindicated with seizure disorders, eating disorders, and abrupt alcohol withdrawal."
+  },
+  {
+    "id": 125,
+    "domain": "clinical_care",
+    "front": "What are the key Health Canada restrictions on over-the-counter cough and cold products for children?",
+    "back": "Not for children under 6 years. Products containing codeine are not for children under 12. Prefer honey for children over 1 year, fluids, and saline rather than medication for simple coughs."
+  },
+  {
+    "id": 126,
+    "domain": "clinical_care",
+    "front": "Which topical corticosteroid potency is generally chosen for atopic dermatitis on the face, groin and axillae?",
+    "back": "Low potency, such as hydrocortisone 0.5% to 1%. These thin skin areas absorb more drug, so higher potencies raise the risk of atrophy, striae and telangiectasia. Use short courses only."
+  },
+  {
+    "id": 127,
+    "domain": "clinical_care",
+    "front": "Which vehicle suits dry, scaly, chronic skin versus weeping, acute lesions, and which is the most occlusive?",
+    "back": "Ointments are most occlusive and best for dry, thick, chronic skin. Creams suit moist or intertriginous areas, and lotions or gels suit hairy areas. Ointments enhance steroid penetration and hydration."
+  },
+  {
+    "id": 128,
+    "domain": "clinical_care",
+    "front": "When are topical calcineurin inhibitors (tacrolimus, pimecrolimus) preferred over corticosteroids in atopic dermatitis?",
+    "back": "For sensitive sites (face, eyelids, skin folds) and long-term maintenance, because they do not cause skin atrophy. Expect transient burning on early use. Counsel on sun protection."
+  },
+  {
+    "id": 129,
+    "domain": "clinical_care",
+    "front": "How do topical retinoids work in acne, and what common adverse effects should be counselled?",
+    "back": "They normalize follicular keratinization and prevent comedones. Expect dryness, redness, peeling and photosensitivity, worst in the first weeks. Start every second night, use sunscreen, and avoid in pregnancy."
+  },
+  {
+    "id": 130,
+    "domain": "clinical_care",
+    "front": "Why should topical or oral antibiotics for acne be combined with benzoyl peroxide?",
+    "back": "Benzoyl peroxide reduces resistance of Cutibacterium acnes to the antibiotic and adds its own antibacterial effect. Antibiotic monotherapy is discouraged. Warn that benzoyl peroxide bleaches fabric and hair."
+  },
+  {
+    "id": 131,
+    "domain": "clinical_care",
+    "front": "What pregnancy prevention program applies to isotretinoin in Canada, and what is the main risk?",
+    "back": "Isotretinoin is a potent teratogen causing severe birth defects. Females of childbearing potential need a negative pregnancy test and reliable contraception (usually two methods) before, during and for one month after therapy."
+  },
+  {
+    "id": 132,
+    "domain": "clinical_care",
+    "front": "Which vitamin and which drug class should be avoided with oral isotretinoin?",
+    "back": "Avoid vitamin A supplements (additive toxicity) and tetracycline-class antibiotics (risk of intracranial hypertension). Counsel on dry lips and skin, and monitor lipids and liver enzymes."
+  },
+  {
+    "id": 133,
+    "domain": "clinical_care",
+    "front": "What is the usual methotrexate dosing frequency in rheumatoid arthritis, and what is the key safety counselling point?",
+    "back": "Once WEEKLY, never daily. Daily dosing errors have caused fatal toxicity. Write the day of the week on the prescription and label, and confirm the patient understands it before dispensing."
+  },
+  {
+    "id": 134,
+    "domain": "clinical_care",
+    "front": "Why is folic acid given with methotrexate in rheumatoid arthritis?",
+    "back": "Folic acid reduces mucositis, nausea and liver enzyme elevation without meaningfully lowering efficacy. It is commonly taken daily or weekly on a day other than the methotrexate day, per prescriber."
+  },
+  {
+    "id": 135,
+    "domain": "clinical_care",
+    "front": "What monitoring is needed for a patient on methotrexate?",
+    "back": "Baseline and regular CBC, liver enzymes (AST, ALT), albumin and serum creatinine, usually every 2 to 4 weeks at first, then every 8 to 12 weeks. Avoid alcohol. Trimethoprim combinations raise the risk of bone marrow suppression."
+  },
+  {
+    "id": 136,
+    "domain": "clinical_care",
+    "front": "Which pregnancy and contraception rule applies to methotrexate and leflunomide?",
+    "back": "Both are teratogenic. Contraception is required during treatment and for a period afterward. Leflunomide needs a cholestyramine washout to clear it faster if pregnancy is planned or toxicity occurs."
+  },
+  {
+    "id": 137,
+    "domain": "clinical_care",
+    "front": "Which infections must be screened for before starting a TNF inhibitor or other biologic?",
+    "back": "Latent tuberculosis (TB skin test or IGRA) and hepatitis B (and often hepatitis C). Reactivation of TB or hepatitis B can be severe, so treat latent infection first or give prophylaxis as advised."
+  },
+  {
+    "id": 138,
+    "domain": "clinical_care",
+    "front": "What is the vaccine rule for patients on biologics or other immunosuppressants?",
+    "back": "Live vaccines (e.g., MMR, varicella, intranasal influenza, yellow fever) are generally contraindicated. Inactivated vaccines are safe and should ideally be given before starting therapy for a better response."
+  },
+  {
+    "id": 139,
+    "domain": "clinical_care",
+    "front": "Why do tacrolimus and cyclosporine require therapeutic drug monitoring?",
+    "back": "They have a narrow therapeutic index with variable absorption and many interactions. Trough levels guide dosing to avoid rejection (too low) and nephrotoxicity or neurotoxicity (too high)."
+  },
+  {
+    "id": 140,
+    "domain": "clinical_care",
+    "front": "Which interactions raise or lower tacrolimus and cyclosporine levels?",
+    "back": "CYP3A4 and P-gp inhibitors (azole antifungals, clarithromycin, diltiazem, grapefruit) raise levels. Inducers (rifampin, carbamazepine, phenytoin, St. John's wort) lower levels and risk rejection."
+  },
+  {
+    "id": 141,
+    "domain": "clinical_care",
+    "front": "What is the key pregnancy warning with mycophenolate?",
+    "back": "Mycophenolate is teratogenic, causing miscarriage and congenital malformations. Require a negative pregnancy test and effective contraception before, during and for a period after therapy. Risk management programs apply."
+  },
+  {
+    "id": 142,
+    "domain": "clinical_care",
+    "front": "What are first-line treatment options for localized impetigo?",
+    "back": "Topical antibiotics: mupirocin 2% or fusidic acid applied for about 7 days. Use oral cloxacillin or cephalexin for extensive disease. Keep lesions covered and wash hands to limit spread."
+  },
+  {
+    "id": 143,
+    "domain": "clinical_care",
+    "front": "How is scabies treated, and what household measures are needed?",
+    "back": "Permethrin 5% cream applied from neck down, left on 8 to 14 hours, repeated in 7 days. Treat all close contacts simultaneously. Wash bedding and clothing in hot water. Itch may persist for weeks."
+  },
+  {
+    "id": 144,
+    "domain": "clinical_care",
+    "front": "What are first-line treatments for head lice, and what is a key counselling point?",
+    "back": "Permethrin 1% or pyrethrins with piperonyl butoxide, repeated in 7 to 10 days since eggs survive. Treat only confirmed infestations, comb out nits, and check household contacts. Do not use on infants without advice."
+  },
+  {
+    "id": 145,
+    "domain": "clinical_care",
+    "front": "Which drug groups most often cause Stevens-Johnson syndrome and toxic epidermal necrolysis?",
+    "back": "Allopurinol, aromatic anticonvulsants (carbamazepine, phenytoin, lamotrigine), sulfonamides, nevirapine and NSAIDs (oxicam). Warning signs: fever, painful rash with blisters and mucosal lesions. Stop the drug at once."
+  },
+  {
+    "id": 146,
+    "domain": "clinical_care",
+    "front": "How long should an SSRI be trialled before judging response, and how long should treatment continue after remission?",
+    "back": "Allow 4 to 6 weeks at an adequate dose, with some improvement often by 2 weeks. After remission, continue at least 6 to 12 months for a first episode, longer with recurrent depression."
+  },
+  {
+    "id": 147,
+    "domain": "clinical_care",
+    "front": "What are the symptoms of antidepressant discontinuation syndrome, and how is it prevented?",
+    "back": "Dizziness, nausea, irritability, 'brain zaps', insomnia and flu-like symptoms. Taper gradually over weeks. Paroxetine and venlafaxine carry the highest risk, fluoxetine the lowest because of its long half-life."
+  },
+  {
+    "id": 148,
+    "domain": "clinical_care",
+    "front": "Why are benzodiazepines not preferred for long-term anxiety disorder treatment, and what is first-line?",
+    "back": "They cause tolerance, dependence, falls and cognitive impairment. First-line is an SSRI or SNRI plus CBT. Benzodiazepines suit only short-term, lowest-dose use; taper slowly to avoid withdrawal."
+  },
+  {
+    "id": 149,
+    "domain": "clinical_care",
+    "front": "What are the usual lithium target serum level and the key signs of lithium toxicity?",
+    "back": "Maintenance level about 0.6 to 1.0 mmol/L, drawn 12 hours after the last dose. Toxicity: coarse tremor, vomiting, diarrhea, ataxia, confusion. NSAIDs, ACE inhibitors, thiazides and dehydration raise levels."
+  },
+  {
+    "id": 150,
+    "domain": "clinical_care",
+    "front": "Which key safety issues apply to valproate and lamotrigine in bipolar disorder?",
+    "back": "Valproate is highly teratogenic (neural tube defects), so avoid in women of childbearing potential. Lamotrigine needs slow titration to reduce rash and Stevens-Johnson risk; valproate doubles its levels, so halve the dose."
+  },
+  {
+    "id": 151,
+    "domain": "clinical_care",
+    "front": "What is the Canadian clozapine ANC monitoring schedule after the baseline count?",
+    "back": "Weekly for the first 6 months, every 2 weeks for months 6 to 12, then every 4 weeks. Baseline ANC must be at least 2.0 x 10^9/L (1.5 with benign ethnic neutropenia). Stop if ANC falls below the threshold."
+  },
+  {
+    "id": 152,
+    "domain": "clinical_care",
+    "front": "Which second-generation antipsychotics carry the highest risk of weight gain and diabetes, and what is monitored?",
+    "back": "Olanzapine and clozapine carry the highest metabolic risk. Check weight, waist, BP, fasting glucose or A1C, and lipids at baseline, again at about 12 weeks, then yearly."
+  },
+  {
+    "id": 153,
+    "domain": "clinical_care",
+    "front": "When starting aripiprazole long-acting injectable (monthly), how long is oral aripiprazole continued?",
+    "back": "Oral aripiprazole overlaps for 14 days after the first injection because the injection builds up slowly. Tolerability to oral aripiprazole should be shown before starting any long-acting injectable."
+  },
+  {
+    "id": 154,
+    "domain": "clinical_care",
+    "front": "Name first-line stimulant classes for ADHD and the cardiovascular checks done before and during treatment.",
+    "back": "Methylphenidate and amphetamine products (including lisdexamfetamine). Ask about heart disease, syncope and family history of sudden death, and monitor BP and heart rate, since stimulants raise both."
+  },
+  {
+    "id": 155,
+    "domain": "clinical_care",
+    "front": "How does atomoxetine differ from stimulants in onset, control status and key warnings?",
+    "back": "It is not a controlled drug and has no diversion value, but full benefit takes 2 to 4 weeks or longer. Monitor for suicidal thinking, mood change and rare liver injury."
+  },
+  {
+    "id": 156,
+    "domain": "clinical_care",
+    "front": "What is the first-line treatment for chronic insomnia, and what are its main parts?",
+    "back": "Cognitive behavioural therapy for insomnia (CBT-I): stimulus control, sleep restriction, cognitive therapy and sleep hygiene. Hypnotics are only a short-term add-on, because benefit fades and risks remain."
+  },
+  {
+    "id": 157,
+    "domain": "clinical_care",
+    "front": "What deprescribing schedule is suggested for stopping a long-term benzodiazepine or Z-drug?",
+    "back": "Reduce the dose by about 25% every 2 weeks, slowing to smaller steps near the end if withdrawal appears. Pair this with CBT-I. Older adults face falls, fractures and delirium on these drugs."
+  },
+  {
+    "id": 158,
+    "domain": "clinical_care",
+    "front": "What adverse effects and cautions apply to donepezil, rivastigmine and galantamine?",
+    "back": "Nausea, vomiting, diarrhea, weight loss, bradycardia and syncope. Use caution with heart block or sick sinus syndrome. Rivastigmine is taken with food, and the patch lowers GI effects."
+  },
+  {
+    "id": 159,
+    "domain": "clinical_care",
+    "front": "What is the Health Canada warning on antipsychotics for behavioural symptoms of dementia?",
+    "back": "They raise the risk of death and stroke in older adults with dementia. Use only for severe distress or danger after non-drug measures, at the lowest dose, and reassess regularly with a taper attempt."
+  },
+  {
+    "id": 160,
+    "domain": "clinical_care",
+    "front": "Which antiseizure drugs induce enzymes and weaken hormonal contraception, and what is a better choice?",
+    "back": "Carbamazepine, phenytoin, phenobarbital and primidone (and topiramate at higher doses) lower contraceptive hormone levels. A copper or levonorgestrel IUD is not affected, so it is preferred."
+  },
+  {
+    "id": 161,
+    "domain": "clinical_care",
+    "front": "Why is valproic acid a concern when combined with lamotrigine, and what is the titration consequence?",
+    "back": "Valproate roughly doubles lamotrigine levels by blocking its glucuronidation, raising rash and Stevens-Johnson risk. Start lamotrigine at a lower dose and titrate more slowly than usual."
+  },
+  {
+    "id": 162,
+    "domain": "clinical_care",
+    "front": "Name the contraindications to triptans.",
+    "back": "Coronary artery disease, prior stroke or TIA, uncontrolled hypertension, peripheral vascular disease, and hemiplegic or basilar migraine. Triptans constrict vessels, and use within 24 hours of ergotamine is avoided."
+  },
+  {
+    "id": 163,
+    "domain": "clinical_care",
+    "front": "When does medication overuse headache develop, and how is it prevented?",
+    "back": "With triptans, ergots or combination analgesics on 10 or more days a month, or simple analgesics on 15 or more days a month, for over 3 months. Limit acute therapy days and start prevention."
+  },
+  {
+    "id": 164,
+    "domain": "clinical_care",
+    "front": "Which patients are candidates for CGRP monoclonal antibodies such as erenumab, fremanezumab and galcanezumab?",
+    "back": "Adults with frequent migraine who failed or could not tolerate other preventives. Given by monthly subcutaneous injection. Common problems are injection-site reactions, and constipation and raised BP with erenumab."
+  },
+  {
+    "id": 165,
+    "domain": "clinical_care",
+    "front": "How does dietary protein affect levodopa, and when should it be taken?",
+    "back": "Large neutral amino acids from protein compete with levodopa for absorption, so take it about 30 minutes before meals. If nausea is a problem, a small snack is acceptable."
+  },
+  {
+    "id": 166,
+    "domain": "clinical_care",
+    "front": "Which counselling points apply to pramipexole and ropinirole?",
+    "back": "Warn about impulse control problems (gambling, shopping, hypersexuality), sudden sleep onset, hallucinations, orthostatic hypotension and leg edema. Caution about driving, and report new compulsive behaviours."
+  },
+  {
+    "id": 167,
+    "domain": "clinical_care",
+    "front": "Which common antiemetics and antipsychotics worsen Parkinson disease, and what are safer options?",
+    "back": "Metoclopramide, prochlorperazine and haloperidol block dopamine and worsen symptoms. Domperidone does not cross the blood-brain barrier well, and quetiapine or clozapine are preferred antipsychotics."
+  },
+  {
+    "id": 168,
+    "domain": "clinical_care",
+    "front": "Why must a patient be in withdrawal before the first buprenorphine-naloxone dose?",
+    "back": "Buprenorphine is a high-affinity partial agonist and displaces full agonists, causing precipitated withdrawal. Wait for clear moderate withdrawal (for example COWS 8 or higher), then give 2 to 4 mg and reassess."
+  },
+  {
+    "id": 169,
+    "domain": "clinical_care",
+    "front": "What are the safety points for methadone initiation in opioid use disorder?",
+    "back": "Start low (about 10 to 30 mg daily) and titrate slowly, since the long half-life causes accumulation and delayed overdose. It prolongs QTc, so consider an ECG and review interacting drugs."
+  },
+  {
+    "id": 170,
+    "domain": "clinical_care",
+    "front": "How is naloxone supplied and used for an opioid overdose in Canada?",
+    "back": "It is free through provincial programs without a prescription. Give 4 mg intranasally or 0.4 mg intramuscularly, call 911, give rescue breaths, and repeat every 2 to 3 minutes if there is no response."
+  },
+  {
+    "id": 171,
+    "domain": "clinical_care",
+    "front": "What daily dose limit does the Canadian opioid guideline for chronic non-cancer pain recommend?",
+    "back": "The 2017 guideline advises staying under 90 mg morphine equivalents per day, and ideally under 50 mg. Optimize non-opioid and non-drug treatment first, because higher doses raise overdose risk."
+  },
+  {
+    "id": 172,
+    "domain": "clinical_care",
+    "front": "How fast should a long-term opioid be tapered for chronic non-cancer pain?",
+    "back": "Reduce about 10% of the daily dose every 2 to 4 weeks, and slower for patients on opioids for years. Do not stop abruptly, as this causes withdrawal and may lead to illicit use."
+  },
+  {
+    "id": 173,
+    "domain": "clinical_care",
+    "front": "What is the maximum acetaminophen dose in adults, and when is a lower ceiling used?",
+    "back": "Canadian labelling allows up to 4 g in 24 hours, with single doses of 1 g or less. Many clinicians limit it to 2 to 3 g daily for chronic alcohol use, liver disease or malnutrition."
+  },
+  {
+    "id": 174,
+    "domain": "clinical_care",
+    "front": "What is the 'triple whammy' involving NSAIDs and why does it matter for a pharmacist?",
+    "back": "An NSAID combined with an ACE inhibitor or ARB plus a diuretic raises the risk of acute kidney injury. Recommend acetaminophen or a short NSAID course with hydration and monitoring."
+  },
+  {
+    "id": 175,
+    "domain": "clinical_care",
+    "front": "Which patients on an NSAID need gastroprotection, and what option is used?",
+    "back": "Those with a past GI bleed or ulcer, age over 65, or taking an anticoagulant, corticosteroid or SSRI. Add a proton pump inhibitor, use the lowest effective dose, and keep treatment short."
+  },
+  {
+    "id": 176,
+    "domain": "clinical_care",
+    "front": "Which drug classes are first-line for neuropathic pain, and how should gabapentin be started?",
+    "back": "Gabapentinoids (gabapentin, pregabalin), SNRIs (duloxetine) and tricyclics (amitriptyline, nortriptyline) are first-line. Start gabapentin low, such as 100 to 300 mg at bedtime, and titrate over days to weeks to limit dizziness and sedation."
+  },
+  {
+    "id": 177,
+    "domain": "clinical_care",
+    "front": "How is gabapentin or pregabalin dosing adjusted in renal impairment, and what are the main adverse effects?",
+    "back": "Both are renally cleared, so reduce the dose and lengthen the interval as CrCl falls. Common effects: dizziness, somnolence, peripheral edema, weight gain. Taper rather than stop abruptly, and caution with opioids or alcohol (respiratory depression)."
+  },
+  {
+    "id": 178,
+    "domain": "clinical_care",
+    "front": "How do the missed-dose rules and bleeding patterns differ for the progestin-only pill versus DMPA injection?",
+    "back": "Drospirenone-only pills allow a 24 hour window, older norethindrone pills only 3 hours. DMPA is given every 12 to 13 weeks, often causes irregular bleeding then amenorrhea, and can reduce bone mineral density with long use."
+  },
+  {
+    "id": 179,
+    "domain": "clinical_care",
+    "front": "Which drug is an SNRI used for diabetic neuropathy and fibromyalgia, and what is its usual starting dose?",
+    "back": "Duloxetine, started at 30 mg daily for about a week, then increased to 60 mg daily. Common effects: nausea, dry mouth, insomnia, increased blood pressure. Avoid with MAOIs and in severe hepatic impairment or heavy alcohol use."
+  },
+  {
+    "id": 180,
+    "domain": "clinical_care",
+    "front": "What is the classic triad and onset pattern of serotonin syndrome?",
+    "back": "Mental status changes, autonomic instability (fever, tachycardia, diaphoresis) and neuromuscular excitation (clonus, hyperreflexia, tremor). Onset is rapid, usually within hours of starting or increasing a serotonergic drug or adding an interacting one."
+  },
+  {
+    "id": 181,
+    "domain": "clinical_care",
+    "front": "How is serotonin syndrome managed?",
+    "back": "Stop all serotonergic drugs, give supportive care and benzodiazepines for agitation and muscle rigidity. Cyproheptadine, a 5-HT2A antagonist, may be used if symptoms persist. Severe hyperthermia needs urgent cooling and hospital care."
+  },
+  {
+    "id": 182,
+    "domain": "clinical_care",
+    "front": "How do neuroleptic malignant syndrome and serotonin syndrome differ clinically?",
+    "back": "NMS follows dopamine antagonists (antipsychotics), develops over days, and causes lead-pipe rigidity with bradyreflexia and elevated CK. Serotonin syndrome develops within hours and features clonus and hyperreflexia. Treat NMS by stopping the drug, cooling, and supportive care."
+  },
+  {
+    "id": 183,
+    "domain": "clinical_care",
+    "front": "What is acute dystonia from antipsychotics, and how is it treated?",
+    "back": "Sudden painful muscle spasm (neck, jaw, eyes) within hours to days of starting a high-potency antipsychotic like haloperidol. Treat with an anticholinergic such as benztropine or diphenhydramine, and consider a dose reduction or a switch of agent."
+  },
+  {
+    "id": 184,
+    "domain": "clinical_care",
+    "front": "Which conditions are contraindications to combined hormonal contraception?",
+    "back": "Migraine with aura, smoking at age 35 or older, prior VTE or known thrombophilia, uncontrolled hypertension, breast cancer, and less than 6 weeks postpartum if breastfeeding. Progestin-only or non-hormonal methods are alternatives."
+  },
+  {
+    "id": 185,
+    "domain": "clinical_care",
+    "front": "Which medication class is first-line for alcohol withdrawal, and what scale guides treatment?",
+    "back": "Benzodiazepines (for example diazepam, lorazepam) are first-line. The CIWA-Ar score guides symptom-triggered dosing. Lorazepam or oxazepam are preferred in significant liver disease because they do not form active metabolites."
+  },
+  {
+    "id": 186,
+    "domain": "clinical_care",
+    "front": "Why is thiamine given in alcohol use disorder, and in what order relative to glucose?",
+    "back": "Thiamine prevents or treats Wernicke encephalopathy (confusion, ataxia, ophthalmoplegia). Give thiamine before or with IV glucose, since glucose can precipitate Wernicke in a thiamine-deficient patient."
+  },
+  {
+    "id": 187,
+    "domain": "clinical_care",
+    "front": "What are the key counselling points for naltrexone in alcohol use disorder?",
+    "back": "An opioid antagonist that reduces cravings and heavy drinking. It blocks opioid analgesia and can precipitate withdrawal, so patients must be opioid-free. Check liver function before and during treatment. Typical dose is 50 mg daily."
+  },
+  {
+    "id": 188,
+    "domain": "clinical_care",
+    "front": "How does acamprosate differ from naltrexone for alcohol use disorder?",
+    "back": "Acamprosate supports abstinence after detox and is started once the patient has stopped drinking. It is renally cleared, so adjust for renal impairment. It has no opioid interaction and little hepatic metabolism. Dose is 666 mg three times daily."
+  },
+  {
+    "id": 189,
+    "domain": "clinical_care",
+    "front": "What are alarm features in a patient with GERD symptoms that need prompt investigation?",
+    "back": "Dysphagia, odynophagia, unintentional weight loss, GI bleeding or iron deficiency anemia, persistent vomiting, and a family history of upper GI cancer. These warrant referral for endoscopy rather than empiric treatment alone."
+  },
+  {
+    "id": 190,
+    "domain": "clinical_care",
+    "front": "When and how should a PPI be taken for best effect?",
+    "back": "Take 30 to 60 minutes before the first meal of the day, since PPIs inhibit actively secreting proton pumps. Full effect takes several days. Use the lowest effective dose and reassess regularly, as long-term use is common without a clear indication."
+  },
+  {
+    "id": 191,
+    "domain": "clinical_care",
+    "front": "Which enzyme-inducing drugs reduce the effectiveness of hormonal contraceptives, and what is advised?",
+    "back": "Rifampin, carbamazepine, phenytoin, phenobarbital, topiramate at higher doses, and St. John's wort. Recommend a non-hormonal method such as a copper IUD, or a levonorgestrel IUD or DMPA, which are not affected."
+  },
+  {
+    "id": 192,
+    "domain": "clinical_care",
+    "front": "What are the main risk factors for NSAID-induced peptic ulcer or GI bleeding?",
+    "back": "Prior ulcer or GI bleed, age over 65, concurrent anticoagulant, corticosteroid or antiplatelet use, high NSAID dose or multiple NSAIDs, and H. pylori infection. Patients with these risks need gastroprotection or a safer alternative."
+  },
+  {
+    "id": 193,
+    "domain": "clinical_care",
+    "front": "What gastroprotection options are used with a needed NSAID in a high GI-risk patient?",
+    "back": "A PPI is the usual choice. Misoprostol also protects but causes diarrhea and abdominal cramps, and is contraindicated in pregnancy. H2 blockers are less effective for protecting against NSAID-induced gastric ulcers."
+  },
+  {
+    "id": 194,
+    "domain": "clinical_care",
+    "front": "Which 5-ASA agents are used in mild to moderate ulcerative colitis, and what should be monitored?",
+    "back": "Mesalamine (oral or rectal) and sulfasalazine. Rectal forms suit distal disease. Monitor renal function periodically, and for sulfasalazine watch for folate deficiency and sulfa hypersensitivity. Offer folic acid supplementation with sulfasalazine."
+  },
+  {
+    "id": 195,
+    "domain": "clinical_care",
+    "front": "What are the key monitoring and interaction points for azathioprine or 6-mercaptopurine in IBD?",
+    "back": "Check TPMT status before starting, and monitor CBC and liver enzymes regularly. Allopurinol greatly increases thiopurine toxicity, so the dose must be cut sharply or the combination avoided. Counsel on infection risk and skin cancer protection."
+  },
+  {
+    "id": 196,
+    "domain": "clinical_care",
+    "front": "Which vaccination principle applies to patients starting immunosuppressive IBD therapy?",
+    "back": "Update inactivated vaccines (influenza, pneumococcal, hepatitis B, HPV) ideally before starting therapy. Avoid live vaccines during treatment with thiopurines, biologics or high-dose steroids, unless the immunosuppression is stopped for the recommended period."
+  },
+  {
+    "id": 197,
+    "domain": "clinical_care",
+    "front": "What is the maximum daily dose of loperamide for self-care, and why is it capped?",
+    "back": "Over the counter, the maximum is 8 mg per day (2 mg after each loose stool, starting with 4 mg). Higher doses can cause serious QT prolongation and cardiac arrhythmias. Avoid in bloody diarrhea, fever, or children under age 12."
+  },
+  {
+    "id": 198,
+    "domain": "clinical_care",
+    "front": "Which laxative class is first-line for opioid-induced constipation, and why do bulk-formers fall short?",
+    "back": "Osmotic (polyethylene glycol, lactulose) or stimulant (senna, bisacodyl) laxatives are used. Bulk-formers such as psyllium need adequate fluid and can worsen obstruction when opioids slow gut motility. Start the laxative together with the opioid."
+  },
+  {
+    "id": 199,
+    "domain": "clinical_care",
+    "front": "What is the first-line drug combination for nausea and vomiting of pregnancy in Canada?",
+    "back": "Doxylamine-pyridoxine (Diclectin), a delayed-release combination taken at bedtime and then adjusted up to a daily maximum. Drowsiness is the main effect. Dietary measures and vitamin B6 alone are tried first for mild symptoms."
+  },
+  {
+    "id": 200,
+    "domain": "clinical_care",
+    "front": "What is the usual dose and time window for levonorgestrel emergency contraception, and when is it less effective?",
+    "back": "Levonorgestrel 1.5 mg once, as soon as possible and within 72 hours (some effect to 120 hours). Efficacy falls with delay and in people with a higher body weight (about 80 kg or more)."
+  },
+  {
+    "id": 201,
+    "domain": "clinical_care",
+    "front": "Why might ulipristal or a copper IUD be preferred over levonorgestrel for emergency contraception?",
+    "back": "Ulipristal (30 mg, within 120 hours) keeps efficacy longer and works better at higher body weight. The copper IUD, placed within 7 days, is the most effective option and gives ongoing contraception."
+  },
+  {
+    "id": 202,
+    "domain": "clinical_care",
+    "front": "What folic acid dose is recommended for a low-risk woman planning pregnancy, and when should it start?",
+    "back": "0.4 to 1.0 mg daily from at least 3 months before conception through the first trimester or longer. Higher doses (4 to 5 mg) are used for high risk, such as prior neural tube defect."
+  },
+  {
+    "id": 203,
+    "domain": "clinical_care",
+    "front": "Which common drugs are major teratogens a pharmacist should flag in women of childbearing potential?",
+    "back": "Isotretinoin, valproate, warfarin, methotrexate, mycophenolate, ACE inhibitors and ARBs (2nd and 3rd trimester fetal toxicity), and thalidomide. Confirm reliable contraception and refer before dispensing."
+  },
+  {
+    "id": 204,
+    "domain": "clinical_care",
+    "front": "What is the first-line pharmacologic approach to nausea and vomiting of pregnancy in Canada?",
+    "back": "Doxylamine plus pyridoxine (delayed-release combination, Diclectin). Start with lifestyle measures, then titrate the dose by symptom pattern, up to a usual maximum of four tablets daily."
+  },
+  {
+    "id": 205,
+    "domain": "clinical_care",
+    "front": "What general principle guides drug choice for a breastfeeding mother?",
+    "back": "Most drugs pass into milk in small amounts. Choose the drug with the best safety data, short half-life, and low oral bioavailability, and consider infant age, since newborns and preterm infants are at greatest risk."
+  },
+  {
+    "id": 206,
+    "domain": "clinical_care",
+    "front": "Which drugs are generally contraindicated or to be avoided during breastfeeding?",
+    "back": "Cytotoxic agents, radioactive iodine, ergot derivatives, and codeine or tramadol (ultra-rapid CYP2D6 metabolizers risk infant opioid toxicity). Amiodarone and lithium need specialist advice."
+  },
+  {
+    "id": 207,
+    "domain": "clinical_care",
+    "front": "Which commonly used drugs can reduce breast milk supply?",
+    "back": "Estrogen-containing contraceptives, pseudoephedrine, and first-generation antihistamines. Prefer progestin-only or non-hormonal contraception while lactation is being established."
+  },
+  {
+    "id": 208,
+    "domain": "clinical_care",
+    "front": "What is the usual ibuprofen dose for a child with fever or pain, and what is a key caution?",
+    "back": "5 to 10 mg/kg per dose every 6 to 8 hours, maximum 40 mg/kg/day. Avoid under 6 months unless advised, and avoid in dehydration or vomiting because of renal risk."
+  },
+  {
+    "id": 209,
+    "domain": "clinical_care",
+    "front": "Which products should not be used for cough and cold in children under 6 years, per Health Canada?",
+    "back": "Over-the-counter cough and cold products are not recommended under 6 years because of lack of benefit and risk of serious adverse effects. Suggest fluids, saline drops, humidified air, and honey for cough over age 1."
+  },
+  {
+    "id": 210,
+    "domain": "clinical_care",
+    "front": "Why is aspirin avoided in children and teenagers with viral illness?",
+    "back": "Risk of Reye syndrome (acute encephalopathy with fatty liver). Use acetaminophen or ibuprofen instead for fever or pain in viral illness such as influenza or varicella."
+  },
+  {
+    "id": 211,
+    "domain": "clinical_care",
+    "front": "What is the usual drug treatment for croup in children?",
+    "back": "A single dose of oral dexamethasone (about 0.15 to 0.6 mg/kg), even for mild croup. Nebulized epinephrine is used for severe stridor at rest. Antibiotics are not indicated, as it is viral."
+  },
+  {
+    "id": 212,
+    "domain": "clinical_care",
+    "front": "Why should codeine be avoided in children?",
+    "back": "Variable CYP2D6 conversion to morphine can cause fatal respiratory depression in ultra-rapid metabolizers. Health Canada advises against codeine under 12 years and in those 12 to 18 with risk factors."
+  },
+  {
+    "id": 213,
+    "domain": "clinical_care",
+    "front": "What are the main indications and key risks of systemic menopausal hormone therapy?",
+    "back": "Indicated for moderate to severe vasomotor symptoms and for prevention of bone loss when other options are unsuitable. Risks include VTE, stroke, breast cancer (with combined therapy), and gallbladder disease. Use lowest dose, shortest duration."
+  },
+  {
+    "id": 214,
+    "domain": "clinical_care",
+    "front": "Why is a progestogen added to estrogen therapy in a woman with an intact uterus?",
+    "back": "Unopposed estrogen raises the risk of endometrial hyperplasia and cancer. A progestogen protects the endometrium. Women who have had a hysterectomy can use estrogen alone."
+  },
+  {
+    "id": 215,
+    "domain": "clinical_care",
+    "front": "When is low-dose vaginal estrogen the treatment of choice in menopause?",
+    "back": "For genitourinary syndrome of menopause (dryness, dyspareunia, recurrent UTIs) when moisturizers are insufficient. Systemic absorption is minimal at low doses, so it is a reasonable option for many women."
+  },
+  {
+    "id": 216,
+    "domain": "clinical_care",
+    "front": "What is first-line drug therapy for primary dysmenorrhea?",
+    "back": "NSAIDs such as ibuprofen or naproxen, started at the onset of pain or bleeding and taken regularly for 2 to 3 days. Hormonal contraceptives are an alternative if contraception is also wanted."
+  },
+  {
+    "id": 217,
+    "domain": "clinical_care",
+    "front": "Name first-line medical options for endometriosis pain.",
+    "back": "NSAIDs plus hormonal suppression: continuous combined hormonal contraceptives or progestins such as dienogest. GnRH analogues or antagonists are second line and need add-back therapy for bone protection."
+  },
+  {
+    "id": 218,
+    "domain": "clinical_care",
+    "front": "What non-hormonal drug reduces heavy menstrual bleeding, and when is it taken?",
+    "back": "Tranexamic acid 1 to 1.5 g orally (two to three 500 mg tablets) three to four times daily for several days of heavy bleeding. It is contraindicated with active thromboembolic disease. NSAIDs also reduce flow by about 20 to 30 percent."
+  },
+  {
+    "id": 219,
+    "domain": "clinical_care",
+    "front": "What is the usual first-line pharmacotherapy for PCOS in a woman not seeking pregnancy?",
+    "back": "Combined hormonal contraceptives for cycle regulation and hirsutism. Metformin can help metabolic features. If pregnancy is desired, letrozole is the preferred ovulation induction agent."
+  },
+  {
+    "id": 220,
+    "domain": "clinical_care",
+    "front": "How is bacterial vaginosis treated, and is partner treatment needed?",
+    "back": "Metronidazole 500 mg orally twice daily for 7 days, or vaginal metronidazole or clindamycin. Routine treatment of male partners is not needed. Counsel the patient to avoid alcohol with oral metronidazole."
+  },
+  {
+    "id": 221,
+    "domain": "clinical_care",
+    "front": "How do trichomoniasis symptoms and treatment differ from candidiasis?",
+    "back": "Trichomoniasis causes frothy yellow-green discharge, odour, and itch, treated with metronidazole (or tinidazole) for both partners. Candidiasis gives thick white curdy discharge with itch and is treated with azole antifungals."
+  },
+  {
+    "id": 222,
+    "domain": "clinical_care",
+    "front": "What is the maximum daily acetaminophen guidance for a patient with chronic liver disease or cirrhosis?",
+    "back": "Generally limit to 2 g per day (some guidance allows up to 3 g in stable disease) and avoid with heavy alcohol use. Check all combination products for hidden acetaminophen."
+  },
+  {
+    "id": 223,
+    "domain": "clinical_care",
+    "front": "Which drugs should be avoided or used with great caution in cirrhosis?",
+    "back": "NSAIDs (renal failure, bleeding, ascites), benzodiazepines and opioids (can precipitate encephalopathy), and hepatically cleared drugs at usual doses. Reduce doses and monitor for sedation and bleeding."
+  },
+  {
+    "id": 224,
+    "domain": "clinical_care",
+    "front": "How do you calculate a weight-based pediatric dose of acetaminophen at 15 mg/kg for a 12 kg child?",
+    "back": "15 mg/kg x 12 kg = 180 mg per dose. With 160 mg/5 mL suspension, give 180 / 160 x 5 = 5.6 mL. Dose every 4 to 6 hours, with a maximum of 5 doses in 24 hours."
+  },
+  {
+    "id": 225,
+    "domain": "clinical_care",
+    "front": "What is the Beers Criteria, and which patient group does it target?",
+    "back": "An American Geriatrics Society list of potentially inappropriate medications for adults aged 65 and older. Pharmacists in Canada use it with STOPP/START and Choosing Wisely Canada to flag drugs whose risks likely outweigh benefits."
+  },
+  {
+    "id": 226,
+    "domain": "clinical_care",
+    "front": "Why are first-generation antihistamines such as diphenhydramine avoided in older adults?",
+    "back": "Strong anticholinergic effects cause confusion, delirium, urinary retention, constipation, dry mouth and falls. Use a second-generation agent such as loratadine or cetirizine instead for allergic symptoms."
+  },
+  {
+    "id": 227,
+    "domain": "clinical_care",
+    "front": "Name four medication classes that raise falls risk in older adults.",
+    "back": "Benzodiazepines and Z-drugs, antipsychotics, antidepressants (especially TCAs), and opioids. Antihypertensives and diuretics add risk through orthostatic hypotension. Review the list in any patient who has fallen."
+  },
+  {
+    "id": 228,
+    "domain": "clinical_care",
+    "front": "What does the STOPP/START tool do that a drug-only list does not?",
+    "back": "STOPP lists potentially inappropriate drugs in context of the patient's disease or condition, while START flags beneficial drugs that are missing (for example, a statin or bisphosphonate in a patient with clear indication)."
+  },
+  {
+    "id": 229,
+    "domain": "clinical_care",
+    "front": "How should a long-term benzodiazepine be deprescribed?",
+    "back": "Taper gradually, reducing the dose by about 25% every 2 weeks, and slower near the end (for example 12.5% steps). Stopping abruptly risks withdrawal, rebound insomnia and seizures. Add sleep hygiene and CBT-I support."
+  },
+  {
+    "id": 230,
+    "domain": "clinical_care",
+    "front": "When should a long-term proton pump inhibitor be considered for deprescribing?",
+    "back": "When the original indication is resolved or was mild (for example, uncomplicated GERD controlled for 4 to 8 weeks). Step down the dose or use on-demand therapy. Keep it if there is Barrett's esophagus or high GI bleed risk."
+  },
+  {
+    "id": 231,
+    "domain": "clinical_care",
+    "front": "What is a key risk of stopping a PPI that was taken for a long time?",
+    "back": "Rebound acid hypersecretion can cause heartburn for a few weeks after stopping. Counsel patients on this, and bridge with antacids or an H2 receptor antagonist rather than restarting the PPI at once."
+  },
+  {
+    "id": 232,
+    "domain": "clinical_care",
+    "front": "Why are antipsychotics a deprescribing target in dementia-related behaviours?",
+    "back": "They raise the risk of stroke, falls and death in older adults with dementia. Use non-drug approaches first, and when stopping, taper slowly while monitoring for relapse of symptoms."
+  },
+  {
+    "id": 233,
+    "domain": "clinical_care",
+    "front": "Why is glyburide (a long-acting sulfonylurea) a poor choice in older adults?",
+    "back": "Prolonged hypoglycemia risk, worsened by declining renal function and active metabolites. Diabetes Canada advises relaxed A1C targets in frail older adults and avoiding agents that cause hypoglycemia."
+  },
+  {
+    "id": 234,
+    "domain": "clinical_care",
+    "front": "How does renal function change with age, and what does it mean for dosing?",
+    "back": "GFR declines roughly 1 mL/min per year after about age 40, and serum creatinine can stay normal due to low muscle mass. Estimate CrCl (Cockcroft-Gault) and adjust renally cleared drugs such as dabigatran and gabapentin."
+  },
+  {
+    "id": 235,
+    "domain": "clinical_care",
+    "front": "How does aging affect the volume of distribution of drugs?",
+    "back": "Lipid-soluble drugs (diazepam) have a larger Vd and a longer half-life because body fat rises. Water-soluble drugs (digoxin, lithium) have a smaller Vd because total body water falls, raising levels."
+  },
+  {
+    "id": 236,
+    "domain": "clinical_care",
+    "front": "Why can total phenytoin or warfarin effects change in frail older adults?",
+    "back": "Serum albumin often falls, leaving more free drug for highly protein-bound agents. Total levels may look normal while free levels and effects are higher, so interpret levels with caution."
+  },
+  {
+    "id": 237,
+    "domain": "clinical_care",
+    "front": "What does the mnemonic SCHOLAR stand for in a self-care assessment?",
+    "back": "Symptoms, Characteristics, History, Onset, Location, Aggravating factors, Remitting factors (relieving). It organizes the questions a pharmacist asks to decide on self-care, referral or prescribing."
+  },
+  {
+    "id": 238,
+    "domain": "clinical_care",
+    "front": "Name common red flags that should trigger referral during a self-care assessment.",
+    "back": "Unexplained weight loss, blood in stool or vomit, difficulty swallowing, severe or worsening pain, high fever, symptoms lasting beyond the expected duration, and age extremes (infants, frail older adults)."
+  },
+  {
+    "id": 239,
+    "domain": "clinical_care",
+    "front": "When should a patient with heartburn be referred rather than self-treated?",
+    "back": "Referral for alarm features: dysphagia, vomiting blood, black stools, weight loss, anemia, or age over 50 with new symptoms. Also if symptoms occur more than 2 days per week or persist after 2 weeks of OTC treatment."
+  },
+  {
+    "id": 240,
+    "domain": "clinical_care",
+    "front": "What is the key treatment for acute diarrhea in a child or adult?",
+    "back": "Oral rehydration solution to replace fluid and electrolytes. Loperamide may be used in adults without fever or blood in stool, but is not for children under 12 without advice, and is avoided with bloody diarrhea."
+  },
+  {
+    "id": 241,
+    "domain": "clinical_care",
+    "front": "What counselling applies to occasional constipation self-care?",
+    "back": "Start with fibre, fluids and activity. Bulk-forming agents (psyllium) need adequate water, and stimulants (senna, bisacodyl) are for short-term use. Refer for blood in stool, new onset in older adults, or no relief in 1 week."
+  },
+  {
+    "id": 242,
+    "domain": "clinical_care",
+    "front": "What is the maximum duration for OTC hydrocortisone use on an area like the anus?",
+    "back": "Short-term only, about 7 days. Persistent bleeding or pain is a reason to refer. Prolonged use risks skin thinning and masking a more serious cause of rectal symptoms."
+  },
+  {
+    "id": 243,
+    "domain": "clinical_care",
+    "front": "What sun protection standard does Health Canada recommend for sunscreen?",
+    "back": "Broad spectrum (UVA and UVB), SPF 30 or higher, and water resistant when swimming or sweating. Apply generously 15 minutes before exposure and reapply every 2 hours. Sunscreens are not recommended for infants under 6 months."
+  },
+  {
+    "id": 244,
+    "domain": "clinical_care",
+    "front": "How should a minor first-degree burn be managed?",
+    "back": "Cool under running cool water for at least 10 to 20 minutes, never ice. Cover loosely and use analgesics. Refer burns that blister widely, affect the face, hands, genitals or joints, or are larger than the patient's palm."
+  },
+  {
+    "id": 245,
+    "domain": "clinical_care",
+    "front": "What treatment applies to diaper rash with a bright red rim and satellite lesions?",
+    "back": "The pattern suggests candidal infection. A topical antifungal such as clotrimazole or miconazole is used with barrier cream. Plain irritant rash responds to zinc oxide barrier cream and frequent changes."
+  },
+  {
+    "id": 246,
+    "domain": "clinical_care",
+    "front": "How does the pharmacist counsel on cerumen (earwax) removal self-care?",
+    "back": "Soften with ear drops (carbamide peroxide or mineral oil) for several days. Do not use cotton swabs or ear candles. Avoid drops if the eardrum may be perforated or there is ear pain or drainage; refer."
+  },
+  {
+    "id": 247,
+    "domain": "clinical_care",
+    "front": "What is the usual first step for chloroquine-resistant malaria prophylaxis in travellers?",
+    "back": "Options such as atovaquone-proguanil, doxycycline or mefloquine, chosen by destination resistance, contraindications and itinerary. Follow the Committee to Advise on Tropical Medicine and Travel (CATMAT) recommendations."
+  },
+  {
+    "id": 248,
+    "domain": "clinical_care",
+    "front": "What interaction makes St John's wort a major concern?",
+    "back": "It induces CYP3A4 and P-glycoprotein and can cause serotonin syndrome with SSRIs. It lowers levels of cyclosporine, oral contraceptives, warfarin and many other drugs, risking treatment failure."
+  },
+  {
+    "id": 249,
+    "domain": "distribution",
+    "front": "Which core elements must a valid prescription contain before a pharmacist can dispense it?",
+    "back": "Patient name, prescriber name and signature, date, drug name and strength, quantity, and directions for use. Missing or unclear elements must be clarified with the prescriber and the clarification documented."
+  },
+  {
+    "id": 250,
+    "domain": "distribution",
+    "front": "What must a pharmacist do when a prescriber gives a verbal order for a prescription drug?",
+    "back": "Reduce it to writing at the time, record the prescriber, date and all required elements, and confirm the prescriber's identity and authority. Narcotic verbal orders carry extra federal conditions."
+  },
+  {
+    "id": 251,
+    "domain": "distribution",
+    "front": "Who can issue a valid prescription in Canada, and what governs the scope of a non-physician prescriber?",
+    "back": "Authority comes from provincial legislation and the regulatory college of each profession (for example NPs, dentists, pharmacists with expanded scope). Scope varies by province, so check the prescriber's legal authority for that drug."
+  },
+  {
+    "id": 252,
+    "domain": "distribution",
+    "front": "Can a prescription for a narcotic under the federal Narcotic Control Regulations be refilled or transferred to another pharmacy?",
+    "back": "No. Narcotic prescriptions cannot be refilled or transferred. A new prescription is required each time, although a prescriber may authorize part-fills on a single prescription with stated intervals."
+  },
+  {
+    "id": 253,
+    "domain": "distribution",
+    "front": "How long can refills of a benzodiazepine prescription be authorized under the federal targeted substances rules?",
+    "back": "Refills are permitted only if the prescriber authorizes them, and no refill may be dispensed more than one year after the date the prescription was written. Record each dispensing."
+  },
+  {
+    "id": 254,
+    "domain": "distribution",
+    "front": "What is the federal rule about the loss or theft of narcotics or controlled substances at a pharmacy?",
+    "back": "Report the loss or theft to Health Canada within 10 days of discovery, using the required form. Pharmacists must also keep accurate records and follow provincial college reporting expectations."
+  },
+  {
+    "id": 255,
+    "domain": "distribution",
+    "front": "Why does ISMP Canada list a trailing zero (5.0 mg) and a missing leading zero (.5 mg) as dangerous?",
+    "back": "A trailing zero can be misread as tenfold larger (50 mg), and a bare decimal can lose its point (5 mg instead of 0.5 mg). Write 5 mg and 0.5 mg."
+  },
+  {
+    "id": 256,
+    "domain": "distribution",
+    "front": "Why are the abbreviations U for units and QD for once daily on the ISMP do-not-use list?",
+    "back": "U can be misread as 0 or 4, giving a tenfold or greater overdose. QD can be misread as QID. Write out \"units\" and \"daily\" in full."
+  },
+  {
+    "id": 257,
+    "domain": "distribution",
+    "front": "A patient uses a 200-actuation inhaler at 2 puffs twice daily. What is the days supply?",
+    "back": "2 puffs x 2 times = 4 puffs per day. 200 actuations / 4 = 50 days. Remember to check the dose counter and whether priming actuations use up part of the device."
+  },
+  {
+    "id": 258,
+    "domain": "distribution",
+    "front": "A 10 mL vial of insulin glargine U-100 is used at 20 units daily. How long does the vial last and what limits its use?",
+    "back": "10 mL x 100 units/mL = 1000 units, so 50 days of insulin. But an opened vial is discarded after 28 days, so the 28-day limit controls the days supply."
+  },
+  {
+    "id": 259,
+    "domain": "distribution",
+    "front": "Amoxicillin 250 mg/5 mL, dose 500 mg three times daily for 10 days. How many mL should be dispensed?",
+    "back": "500 mg = 10 mL per dose. 10 mL x 3 doses x 10 days = 300 mL. Always round to available bottle sizes without shorting the course."
+  },
+  {
+    "id": 260,
+    "domain": "distribution",
+    "front": "Using about 20 drops per mL, how many days does a 5 mL eye drop bottle last at 1 drop in both eyes twice daily?",
+    "back": "5 mL x 20 = 100 drops. Use is 2 drops x 2 times = 4 drops per day. 100 / 4 = 25 days, approximately."
+  },
+  {
+    "id": 261,
+    "domain": "distribution",
+    "front": "A child weighs 22 kg and the dose is 15 mg/kg per dose. What is the single dose?",
+    "back": "22 kg x 15 mg/kg = 330 mg per dose. Then check that this is within the usual maximum per dose and per day for that drug."
+  },
+  {
+    "id": 262,
+    "domain": "distribution",
+    "front": "What is the Mosteller formula for body surface area and the BSA for a person 170 cm and 72 kg?",
+    "back": "BSA (m2) = square root of (height in cm x weight in kg / 3600). 170 x 72 = 12 240, / 3600 = 3.4, square root is about 1.84 m2."
+  },
+  {
+    "id": 263,
+    "domain": "distribution",
+    "front": "Convert a 1:1000 ratio strength to mg/mL and to percent strength.",
+    "back": "1:1000 means 1 g in 1000 mL, which is 1 mg/mL or 0.1%. Likewise 1:10 000 is 0.1 mg/mL (0.01%), the epinephrine strength used for IV cardiac use."
+  },
+  {
+    "id": 264,
+    "domain": "distribution",
+    "front": "Use alligation to find the parts of 10% and 2% creams needed to make a 5% cream.",
+    "back": "Subtract diagonally: 10% part = 5 - 2 = 3 parts, 2% part = 10 - 5 = 5 parts. Mix 3 parts of 10% with 5 parts of 2%, giving 8 parts total."
+  },
+  {
+    "id": 265,
+    "domain": "distribution",
+    "front": "How much final volume results when 50 mL of a 20% solution is diluted to 5% using C1V1 = C2V2?",
+    "back": "20% x 50 mL = 5% x V2, so V2 = 1000 / 5 = 200 mL. Add 150 mL of diluent to the original 50 mL."
+  },
+  {
+    "id": 266,
+    "domain": "distribution",
+    "front": "Calculate the infusion rate in drops/min for 1000 mL over 8 hours with a 20 drops/mL set.",
+    "back": "Total drops = 1000 x 20 = 20 000. Time = 480 min. 20 000 / 480 is about 41.7, so run at about 42 drops per minute."
+  },
+  {
+    "id": 267,
+    "domain": "distribution",
+    "front": "Dopamine is ordered at 5 mcg/kg/min for an 80 kg patient. What is the rate in mg/h?",
+    "back": "5 x 80 = 400 mcg/min. 400 x 60 = 24 000 mcg/h, which is 24 mg/h. Then divide by the bag concentration (mg/mL) to get the pump rate in mL/h."
+  },
+  {
+    "id": 268,
+    "domain": "distribution",
+    "front": "How many milligrams of potassium chloride (MW 74.5) are in 20 mEq?",
+    "back": "KCl is monovalent, so 1 mEq = 1 mmol = 74.5 mg. 20 x 74.5 = 1490 mg. Always check whether the label states mEq or mg of the salt."
+  },
+  {
+    "id": 269,
+    "domain": "distribution",
+    "front": "A patient needs 30 units of U-100 insulin. What volume is drawn into the syringe?",
+    "back": "U-100 contains 100 units per mL, so 30 units = 0.3 mL. Use a U-100 insulin syringe and never a standard syringe to measure units."
+  },
+  {
+    "id": 270,
+    "domain": "distribution",
+    "front": "Write the Cockcroft-Gault equation using serum creatinine in umol/L and estimate CrCl for a 70-year-old man, 80 kg, SCr 100 umol/L.",
+    "back": "CrCl = (140 - age) x weight x 1.23 / SCr (use 1.04 for women). (70 x 80 x 1.23) / 100 = about 69 mL/min."
+  },
+  {
+    "id": 271,
+    "domain": "distribution",
+    "front": "When is adjusted body weight used in Cockcroft-Gault, and how is it calculated?",
+    "back": "For obese patients (actual weight well above ideal). Adjusted weight = IBW + 0.4 x (actual - IBW). Ideal weight for men is 50 kg + 2.3 kg per inch over 5 feet; women 45.5 kg."
+  },
+  {
+    "id": 272,
+    "domain": "distribution",
+    "front": "What multiplier converts daily oral hydromorphone to oral morphine milligram equivalents (MME) under Canadian opioid guideline tables?",
+    "back": "Multiply by 5. For example, hydromorphone 8 mg/day is 40 MME/day. Other factors include codeine 0.15, tramadol 0.2, and oxycodone 1.5, with morphine at 1."
+  },
+  {
+    "id": 273,
+    "domain": "distribution",
+    "front": "What is the usual breakthrough opioid dose for a patient on a regular opioid, and what must you consider when converting between opioids?",
+    "back": "Breakthrough is commonly about 10% of the total 24 h dose. When switching opioids, reduce the calculated equivalent dose by 25 to 50% for incomplete cross-tolerance, then titrate."
+  },
+  {
+    "id": 274,
+    "domain": "distribution",
+    "front": "How is elimination half-life calculated from volume of distribution and clearance?",
+    "back": "t1/2 = 0.693 x Vd / CL. A larger Vd lengthens half-life, and higher clearance shortens it. Example: Vd 70 L and CL 7 L/h gives about 6.9 h."
+  },
+  {
+    "id": 275,
+    "domain": "distribution",
+    "front": "How long does a drug given at a constant rate take to reach steady state, and does the dose change this?",
+    "back": "About 4 to 5 half-lives (roughly 94 to 97% of steady state). The dose size does not change the time, only the final concentration."
+  },
+  {
+    "id": 276,
+    "domain": "distribution",
+    "front": "What is the formula for a loading dose, and what is one worked example?",
+    "back": "Loading dose = target concentration x Vd / F. With a target of 10 mg/L, Vd of 50 L and F of 1 (IV), the loading dose is 500 mg."
+  },
+  {
+    "id": 277,
+    "domain": "distribution",
+    "front": "How do you estimate an equivalent IV dose when converting from an oral dose?",
+    "back": "IV dose is approximately oral dose x oral bioavailability (F). Example: oral 100 mg with F of 0.5 is about 50 mg IV, since IV bioavailability is 100%."
+  },
+  {
+    "id": 278,
+    "domain": "distribution",
+    "front": "When switching from immediate-release to extended-release tablets, what is the usual dosing approach and key counselling point?",
+    "back": "Keep the same total daily dose, given less often. Counsel patients not to crush, chew or split most ER tablets, since this can cause dose dumping and toxicity."
+  },
+  {
+    "id": 279,
+    "domain": "distribution",
+    "front": "What does adapting a prescription mean for a Canadian pharmacist?",
+    "back": "Changing the dose, dosage form, regimen or route of a prescribed drug to suit the patient. Where permitted, document the rationale and notify the prescriber. Scope varies by province."
+  },
+  {
+    "id": 280,
+    "domain": "distribution",
+    "front": "What is therapeutic substitution, and how is it different from generic substitution?",
+    "back": "It replaces a drug with a different drug, usually in the same class. Generic substitution swaps the same active ingredient. Therapeutic substitution is allowed only in some provinces, with patient consent and prescriber notification."
+  },
+  {
+    "id": 281,
+    "domain": "distribution",
+    "front": "What must a pharmacist do before renewing a prescription for a stable chronic condition?",
+    "back": "Assess the patient (adherence, effectiveness, adverse effects), confirm the therapy remains appropriate, document the renewal and its quantity, and notify the prescriber. Authority and limits vary by province."
+  },
+  {
+    "id": 282,
+    "domain": "distribution",
+    "front": "Can a prescription for a narcotic be transferred between pharmacies in Canada?",
+    "back": "No. Narcotic prescriptions cannot be transferred. Prescriptions for targeted substances (such as benzodiazepines) may be transferred only once. Most other prescriptions can be transferred under provincial rules."
+  },
+  {
+    "id": 283,
+    "domain": "distribution",
+    "front": "What must be recorded when a prescription is transferred between pharmacies?",
+    "back": "Both pharmacists record the date, the other pharmacist's name and pharmacy, and the prescription details. The sending pharmacy cancels the original so no refills remain there."
+  },
+  {
+    "id": 284,
+    "domain": "distribution",
+    "front": "What should a pharmacist do when a prescriber cancels a prescription or a duplicate prescription arrives?",
+    "back": "Document the cancellation and inactivate remaining refills. For a duplicate, check the profile and with the prescriber or patient, then dispense once to avoid duplicate therapy."
+  },
+  {
+    "id": 285,
+    "domain": "distribution",
+    "front": "What does a Drug Identification Number (DIN) identify?",
+    "back": "An 8-digit number assigned by Health Canada to a marketed drug product. It identifies the manufacturer, brand name, active ingredients, strength, dosage form and route of administration."
+  },
+  {
+    "id": 286,
+    "domain": "distribution",
+    "front": "When is a Product Identification Number (PIN) used instead of a DIN?",
+    "back": "For billing a product that has no DIN, such as some compounded preparations, supplies or devices, where a drug plan accepts a PIN. Plan rules about PIN use vary by province."
+  },
+  {
+    "id": 287,
+    "domain": "distribution",
+    "front": "What is the difference between a limited use drug and a special authorization drug in a public drug plan?",
+    "back": "Limited use drugs are covered when the prescriber documents that the patient meets set criteria. Special authorization drugs need prescriber approval from the plan before coverage is granted."
+  },
+  {
+    "id": 288,
+    "domain": "distribution",
+    "front": "What bioequivalence standard does Health Canada apply to most generic drugs?",
+    "back": "The 90% confidence interval of the generic-to-brand ratio for AUC and Cmax must fall within 80 to 125%. This shows a similar rate and extent of absorption."
+  },
+  {
+    "id": 289,
+    "domain": "distribution",
+    "front": "What stricter limit applies to critical dose (narrow therapeutic index) generics, and name two examples.",
+    "back": "The AUC ratio must fall within 90 to 112%. Examples are warfarin, digoxin, tacrolimus, cyclosporine, lithium and phenytoin. Monitor closely when switching products."
+  },
+  {
+    "id": 290,
+    "domain": "distribution",
+    "front": "What limits a pharmacist's ability to substitute a generic product for a prescribed brand?",
+    "back": "The product must be listed as interchangeable by the provincial formulary. Substitution is blocked by a prescriber no-substitution instruction, and patient consent rules vary by province."
+  },
+  {
+    "id": 291,
+    "domain": "distribution",
+    "front": "Which two patient identifiers should be confirmed at prescription intake to prevent wrong-patient errors?",
+    "back": "Full name and date of birth (or address). Confirm both with the patient or agent each time, and open the correct profile before entering the prescription."
+  },
+  {
+    "id": 292,
+    "domain": "distribution",
+    "front": "How should a drug allergy be recorded at intake?",
+    "back": "Record the drug, the reaction type and its severity, and distinguish true allergy (hives, anaphylaxis) from intolerance (nausea). Update the profile whenever new information appears."
+  },
+  {
+    "id": 293,
+    "domain": "distribution",
+    "front": "What must be documented when a pharmacist overrides a clinical screening alert?",
+    "back": "The reason for the override, any contact with the prescriber or patient, the outcome and the counselling given. Do not clear alerts without assessing clinical significance first."
+  },
+  {
+    "id": 294,
+    "domain": "distribution",
+    "front": "How should a pharmacist handle a drug interaction alert at order entry?",
+    "back": "Judge severity and patient factors (dose, kidney function, timing). Some pairs, such as sildenafil with nitrates, are contraindicated. Others may be managed by monitoring or a dose change."
+  },
+  {
+    "id": 295,
+    "domain": "distribution",
+    "front": "How do tall man letters help prevent look-alike, sound-alike errors?",
+    "back": "They capitalize the differing letters of confusable names, such as predniSONE and prednisoLONE, making them easier to tell apart. Also use separate storage and read back verbal orders."
+  },
+  {
+    "id": 296,
+    "domain": "distribution",
+    "front": "What are the key steps after a medication error reaches the patient?",
+    "back": "Assess and manage patient harm, disclose to the patient, notify the prescriber, document the event, and report it to the pharmacy's quality improvement program or ISMP Canada, then analyze the cause."
+  },
+  {
+    "id": 297,
+    "domain": "distribution",
+    "front": "What should a pharmacist check before dispensing a refill earlier than expected?",
+    "back": "Ask why it is early (lost, travel, dose change), review the profile for misuse or overuse, check plan and legal limits, and document the reason. Narcotic and controlled drugs need extra caution."
+  },
+  {
+    "id": 298,
+    "domain": "distribution",
+    "front": "What is refill synchronization and what is a key requirement?",
+    "back": "Aligning a patient's chronic medications to one pickup date, often with short or prorated fills to bridge the gap. It needs patient agreement and a plan or pharmacy policy that allows prorated fills."
+  },
+  {
+    "id": 299,
+    "domain": "distribution",
+    "front": "What are the three levels of complexity in the NAPRA model standards for non-sterile compounding, and what drives the level?",
+    "back": "Level A (simple and moderate), Level B (complex), Level C (hazardous preparations). The level reflects risk from the ingredients and the process, and a higher level requires stricter facilities, equipment, training and documentation."
+  },
+  {
+    "id": 300,
+    "domain": "distribution",
+    "front": "What is the purpose of a master formulation record in non-sterile compounding?",
+    "back": "It is the validated, approved recipe: ingredients, quantities, equipment, steps, container, labelling and beyond-use date. Every batch is made from it, so the product is reproducible and traceable."
+  },
+  {
+    "id": 301,
+    "domain": "distribution",
+    "front": "What must a compounding record show for each individual preparation, beyond the master formula?",
+    "back": "Actual ingredient lot numbers and expiry dates, quantities weighed or measured, the date, who prepared it, who verified it, and the assigned beyond-use date. This allows recall tracing if a problem arises."
+  },
+  {
+    "id": 302,
+    "domain": "distribution",
+    "front": "What principle sets the beyond-use date of a compounded non-sterile preparation?",
+    "back": "It cannot exceed the shortest supported by stability data or literature for that exact formulation and container, and it never exceeds the earliest expiry of any component used."
+  },
+  {
+    "id": 303,
+    "domain": "distribution",
+    "front": "Why does water activity matter when assigning a beyond-use date to a non-sterile preparation?",
+    "back": "Microbes need free water. Preparations with water activity above about 0.6 can support microbial growth, so they need a preservative or a short beyond-use date, while low water activity products last longer."
+  },
+  {
+    "id": 304,
+    "domain": "distribution",
+    "front": "Where must the primary engineering control sit, and what ISO class does NAPRA require for it in sterile compounding?",
+    "back": "The primary engineering control (such as a biological safety cabinet or compounding aseptic isolator) must provide ISO Class 5 air. It is placed in a cleanroom (buffer area, commonly ISO Class 7) with an ISO Class 8 ante-area."
+  },
+  {
+    "id": 305,
+    "domain": "distribution",
+    "front": "In what order should hands and garb be handled before sterile compounding?",
+    "back": "Shoe covers, hair cover, face mask, then hand hygiene, then gown, and sterile gloves last. Gloves are disinfected with sterile 70% isopropyl alcohol and re-disinfected when moving between items."
+  },
+  {
+    "id": 306,
+    "domain": "distribution",
+    "front": "What aseptic technique rules apply when working inside the ISO Class 5 hood?",
+    "back": "Work at least 15 cm (6 inches) inside the hood from the front edge, never block first air from the HEPA filter, keep critical sites uncontacted, and disinfect vial stoppers and ampoule necks with sterile 70% isopropyl alcohol."
+  },
+  {
+    "id": 307,
+    "domain": "distribution",
+    "front": "What beyond-use dates apply to low-risk sterile preparations under the NAPRA sterile compounding standard when no sterility testing is done?",
+    "back": "Low risk: 48 hours at room temperature, 14 days refrigerated, 45 days frozen. Higher risk levels have shorter dates, for example 24 hours at room temperature and 3 days refrigerated for high risk."
+  },
+  {
+    "id": 308,
+    "domain": "distribution",
+    "front": "Which filter is used to withdraw drug from a glass ampoule, and which is used to sterilize a solution?",
+    "back": "A 5 micron filter needle removes glass particles from an ampoule. A 0.22 micron membrane filter is the sterilizing filter used to render a solution sterile, for example in high-risk compounding."
+  },
+  {
+    "id": 309,
+    "domain": "distribution",
+    "front": "What is the minimum PPE for handling hazardous drugs such as cytotoxics during compounding?",
+    "back": "A disposable impermeable gown that closes at the back with long cuffs, and two pairs of chemotherapy-tested gloves (ASTM D6978), the outer pair over the cuff. Add eye and respiratory protection when splash or aerosol is possible."
+  },
+  {
+    "id": 310,
+    "domain": "distribution",
+    "front": "Where should sterile hazardous drugs be prepared, and what is the role of a closed system transfer device (CSTD)?",
+    "back": "Prepare in a vented biological safety cabinet within a negative pressure room. A CSTD adds protection by limiting vapour and droplet escape, but it supplements, and does not replace, the cabinet and PPE."
+  },
+  {
+    "id": 311,
+    "domain": "distribution",
+    "front": "What are the key steps in managing a hazardous drug spill?",
+    "back": "Restrict the area, put on full PPE, use the spill kit to absorb liquid or wet powder, clean with detergent then rinse, then dispose of everything as hazardous waste. Document the spill and report exposures."
+  },
+  {
+    "id": 312,
+    "domain": "distribution",
+    "front": "A balance has a sensitivity requirement of 6 mg and 5% error is allowed. What is the least weighable quantity?",
+    "back": "Least weighable quantity equals sensitivity requirement divided by the acceptable error: 6 mg divided by 0.05 gives 120 mg. Any smaller amount needs an aliquot or dilution to stay accurate."
+  },
+  {
+    "id": 313,
+    "domain": "distribution",
+    "front": "You need 10 mg of drug but can only weigh 120 mg. How do you do an aliquot?",
+    "back": "Weigh 120 mg of drug and mix with 1080 mg of diluent for 1200 mg total, so each 100 mg of mixture holds 10 mg. Weigh 100 mg of the mixture to get 10 mg of drug."
+  },
+  {
+    "id": 314,
+    "domain": "distribution",
+    "front": "How do you calculate the base needed for 10 suppositories (mould 2 g each) with 100 mg drug each and a density factor of 1.5?",
+    "back": "Total weight 20 g. Drug 1 g displaces 1 divided by 1.5, about 0.67 g of base. Base needed is 20 minus 0.67, which is about 19.33 g of base."
+  },
+  {
+    "id": 315,
+    "domain": "distribution",
+    "front": "A formula makes 100 mL and you need 250 mL. How do you scale it up?",
+    "back": "Divide desired quantity by formula quantity to get the factor (250 divided by 100 is 2.5). Multiply every ingredient by 2.5, then check that rounding of small quantities does not compromise accuracy."
+  },
+  {
+    "id": 316,
+    "domain": "distribution",
+    "front": "What is geometric dilution and when is it used?",
+    "back": "Mix the small amount of potent drug with an equal amount of diluent, then keep adding diluent equal to the mixture present and blending. It gives uniform distribution of a small quantity in a large amount of powder."
+  },
+  {
+    "id": 317,
+    "domain": "distribution",
+    "front": "What is levigation, and why is it used when making an ointment or suspension?",
+    "back": "Reducing particle size and wetting a powder by triturating it with a small amount of a liquid (levigating agent, such as mineral oil or glycerin) into a smooth paste, preventing grittiness and clumping before adding the base."
+  },
+  {
+    "id": 318,
+    "domain": "distribution",
+    "front": "What is the classic oil:water:gum ratio for the dry gum or wet gum method of making a primary emulsion with a fixed oil?",
+    "back": "4:2:1 by volume (4 parts oil, 2 parts water, 1 part gum). The primary emulsion forms first, then the remaining ingredients are added to dilute it."
+  },
+  {
+    "id": 319,
+    "domain": "distribution",
+    "front": "What is the temperature classification for controlled room temperature, refrigerated and frozen storage in Canada?",
+    "back": "Controlled room temperature is 15 to 25 C, refrigerated is 2 to 8 C, and frozen is minus 25 to minus 10 C. Excursion limits depend on the product, so check its monograph."
+  },
+  {
+    "id": 320,
+    "domain": "distribution",
+    "front": "Which kinds of drugs need light-resistant (amber or opaque) containers, and which need protection from moisture?",
+    "back": "Photosensitive drugs, such as nitroprusside solutions, need light-resistant packaging. Moisture-sensitive products, such as nitroglycerin sublingual tablets, stay in the tight, original glass container with the desiccant."
+  },
+  {
+    "id": 321,
+    "domain": "distribution",
+    "front": "What are common in-use storage limits for opened or reconstituted products such as amoxicillin suspension and most insulin vials?",
+    "back": "Reconstituted amoxicillin suspension keeps 14 days in the refrigerator. Most opened insulin vials last 28 days at room temperature. Always confirm with the product monograph since agents differ."
+  },
+  {
+    "id": 322,
+    "domain": "distribution",
+    "front": "What temperature range must refrigerated vaccines be kept at, and what should you do after an excursion outside it?",
+    "back": "Keep at 2 to 8 C, aiming near 5 C. After an excursion, quarantine the vaccine, do not discard or use it, document the temperatures, and contact the manufacturer or public health for stability guidance."
+  },
+  {
+    "id": 323,
+    "domain": "distribution",
+    "front": "Why must dabigatran not be placed in a blister pack or compliance aid?",
+    "back": "Dabigatran capsules are moisture sensitive and must stay in the original bottle or blister. Repackaging exposes them to humidity and breaks stability, so dispense in original packaging and counsel the patient."
+  },
+  {
+    "id": 324,
+    "domain": "distribution",
+    "front": "What should a pharmacist compare during the final check of a filled prescription before release?",
+    "back": "Compare the original prescription, the label, and the actual product (drug, strength, form, quantity, and the DIN on the stock bottle). Confirm patient name, directions, and that the drug matches what was prescribed."
+  },
+  {
+    "id": 325,
+    "domain": "distribution",
+    "front": "Why is an independent double check used for high-alert medications such as insulin, opioids, and methotrexate?",
+    "back": "Two people separately verify the calculation, product, and dose without influencing each other. This catches errors a single checker would miss, because these drugs can cause serious harm with a small mistake."
+  },
+  {
+    "id": 326,
+    "domain": "distribution",
+    "front": "Which commonly confused pair is an example of a look-alike, sound-alike error risk, and what safeguard helps?",
+    "back": "Hydroxyzine and hydralazine are a classic pair. Safeguards include tall-man lettering (hydrOXYzine), separate shelving, requiring the indication on the prescription, and reading the drug name aloud at the final check."
+  },
+  {
+    "id": 327,
+    "domain": "distribution",
+    "front": "List core elements that must appear on a dispensed prescription label in Canada.",
+    "back": "Patient name, drug name and strength, quantity, directions, prescriber name, pharmacy name and address, prescription number, date dispensed, and pharmacist identification. Exact required elements vary by province."
+  },
+  {
+    "id": 328,
+    "domain": "distribution",
+    "front": "What is the purpose of auxiliary labels, and give one example for tetracycline-class antibiotics.",
+    "back": "Auxiliary labels give short, key handling or safety instructions on the container. Doxycycline example: take with a full glass of water and remain upright, and avoid dairy and antacids close to the dose."
+  },
+  {
+    "id": 329,
+    "domain": "distribution",
+    "front": "How should directions be worded on a label to support patient understanding?",
+    "back": "Use plain language and an action verb, with a clear dose, timing, and route, such as \"Take 1 tablet by mouth twice daily.\" Avoid abbreviations and Latin terms like \"bid\" or \"qhs\" that patients may misread."
+  },
+  {
+    "id": 330,
+    "domain": "distribution",
+    "front": "Which dispensing tasks can a regulated pharmacy technician perform independently in most provinces?",
+    "back": "Technicians can often do technical checks, final product verification, and release of refills in the scope set by their provincial college. Clinical assessment, prescribing, and counselling decisions stay with the pharmacist or are delegated per scope."
+  },
+  {
+    "id": 331,
+    "domain": "distribution",
+    "front": "What is the difference between a technical check and a clinical check of a prescription?",
+    "back": "A technical check verifies that the product, label, and quantity match the prescription. A clinical check assesses appropriateness: indication, dose, interactions, allergies, and duplications. Both are required before release."
+  },
+  {
+    "id": 332,
+    "domain": "distribution",
+    "front": "Name a safeguard when a pharmacy uses an automated dispensing cabinet or robot.",
+    "back": "Barcode verification of the stock product against the prescription, with scheduled calibration and a pharmacist or technician final check. Automation reduces counting errors but does not replace visual verification."
+  },
+  {
+    "id": 333,
+    "domain": "distribution",
+    "front": "What does FEFO mean in pharmacy inventory, and why use it?",
+    "back": "First Expiry, First Out: dispense the stock expiring soonest first, regardless of when it arrived. It reduces waste from expired product and keeps short-dated stock moving."
+  },
+  {
+    "id": 334,
+    "domain": "distribution",
+    "front": "How is a reorder point calculated in a basic inventory system?",
+    "back": "Reorder point equals average daily usage multiplied by lead time in days, plus safety stock. When on-hand quantity reaches this number, place a new order to avoid running out."
+  },
+  {
+    "id": 335,
+    "domain": "distribution",
+    "front": "What should be done with expired stock and slow-moving or dead stock?",
+    "back": "Remove expired products from the dispensing area, quarantine them, and return through the wholesaler or manufacturer policy or destroy per regulations. Review dead stock regularly and reduce par levels to limit losses."
+  },
+  {
+    "id": 336,
+    "domain": "distribution",
+    "front": "Where can pharmacists report and check drug shortages in Canada?",
+    "back": "Drug Shortages Canada (drugshortagescanada.ca) is the national database where manufacturers must report shortages and discontinuations. Pharmacists use it to check status and expected resupply dates."
+  },
+  {
+    "id": 337,
+    "domain": "distribution",
+    "front": "What steps should a pharmacist take when a prescribed drug is in shortage?",
+    "back": "Check the supply source, consider a therapeutically equivalent product or alternative, contact the prescriber when a substitution needs authorization, document the change, and tell the patient clearly what changed and why."
+  },
+  {
+    "id": 338,
+    "domain": "distribution",
+    "front": "Why should a pharmacy avoid stockpiling during a drug shortage?",
+    "back": "Stockpiling worsens supply gaps for other pharmacies and patients. Order only expected need, follow wholesaler allocation limits, and prioritize patients with the greatest clinical need."
+  },
+  {
+    "id": 339,
+    "domain": "distribution",
+    "front": "What does a Health Canada Type I recall indicate?",
+    "back": "Type I means a reasonable probability that using the product will cause serious adverse health consequences or death. It carries the highest urgency and requires immediate action."
+  },
+  {
+    "id": 340,
+    "domain": "distribution",
+    "front": "How do Type II and Type III Health Canada recalls differ from Type I?",
+    "back": "Type II: use may cause temporary or reversible health effects, or serious effects are remote. Type III: use is unlikely to cause adverse health effects. Urgency and depth of recall decrease from I to III."
+  },
+  {
+    "id": 341,
+    "domain": "distribution",
+    "front": "What should a pharmacy do on receiving a recall notice for a product it stocks?",
+    "back": "Check stock for affected lots, quarantine and label affected product, notify patients who received it as directed by the recall level, record actions taken, and return or destroy product per the notice."
+  },
+  {
+    "id": 342,
+    "domain": "distribution",
+    "front": "How often must a narcotic and controlled drug inventory be reconciled, and what does it compare?",
+    "back": "Perform a count regularly (many provinces require at least every 3 to 6 months, and a perpetual inventory is expected). Compare physical count to purchases and dispensing records to identify variances."
+  },
+  {
+    "id": 343,
+    "domain": "distribution",
+    "front": "What must a pharmacist do upon discovering a loss or theft of narcotics or controlled drugs?",
+    "back": "Report the loss or theft to Health Canada's Office of Controlled Substances within 10 days under the Narcotic Control Regulations, and notify police and the provincial college as required."
+  },
+  {
+    "id": 344,
+    "domain": "distribution",
+    "front": "How can a pharmacy destroy expired narcotic stock?",
+    "back": "Pharmacies generally follow Health Canada and provincial rules: obtain written authorization where needed, destroy in the presence of a witness such as another pharmacist or inspector, and keep records of what was destroyed."
+  },
+  {
+    "id": 345,
+    "domain": "distribution",
+    "front": "Why should patients not flush unused medications or discard sharps in household garbage?",
+    "back": "Flushing can contaminate water, and loose sharps injure waste handlers. Return unused drugs to a pharmacy take-back program and place sharps in a puncture-resistant, sealed container for approved disposal."
+  },
+  {
+    "id": 346,
+    "domain": "distribution",
+    "front": "What checks are required before releasing a prescription to a patient at pickup?",
+    "back": "Confirm patient identity with two identifiers (name and date of birth or address), match the bag to the prescription, and offer counselling. Document who received the product, especially for narcotics."
+  },
+  {
+    "id": 347,
+    "domain": "distribution",
+    "front": "What is important when a third party such as a caregiver picks up a prescription?",
+    "back": "Verify the person's identity and relationship, confirm they are authorized, and still offer pharmacist counselling or arrange a phone call. Keep a record of who collected the medication."
+  },
+  {
+    "id": 348,
+    "domain": "distribution",
+    "front": "What is witnessed ingestion in opioid agonist therapy, and when are take-home doses (carries) considered?",
+    "back": "The patient swallows the methadone or buprenorphine dose in front of the pharmacist. Carries are authorized by the prescriber after stability and risk assessment, and the pharmacist dispenses only the exact days specified."
+  },
+  {
+    "id": 349,
+    "domain": "knowledge_and_expertise",
+    "front": "Which study design is best suited to studying a rare disease, and what is its main weakness?",
+    "back": "Case-control design. It starts with cases and compares prior exposures to controls, so it is efficient for rare outcomes. Weaknesses are recall bias, difficult control selection, and it cannot give incidence directly."
+  },
+  {
+    "id": 350,
+    "domain": "knowledge_and_expertise",
+    "front": "Which study design follows exposed and unexposed groups forward in time and can calculate relative risk?",
+    "back": "A prospective cohort study. It measures incidence and temporal sequence directly, suits common outcomes and rare exposures, but is costly, slow, and prone to attrition and confounding."
+  },
+  {
+    "id": 351,
+    "domain": "knowledge_and_expertise",
+    "front": "Why can a cross-sectional study not establish that an exposure caused an outcome?",
+    "back": "Exposure and outcome are measured at the same moment, so temporal sequence is unknown. It gives prevalence and is useful for hypothesis generation, but not for proving causation."
+  },
+  {
+    "id": 352,
+    "domain": "knowledge_and_expertise",
+    "front": "Why is a randomized controlled trial considered the strongest design for evaluating treatment efficacy?",
+    "back": "Randomization balances known and unknown confounders between groups on average, so differences in outcome can be attributed to the intervention. Limits include cost, strict populations, and limited generalizability."
+  },
+  {
+    "id": 353,
+    "domain": "knowledge_and_expertise",
+    "front": "What is the purpose of allocation concealment in a randomized trial?",
+    "back": "It hides the upcoming assignment from those enrolling participants, preventing selection bias at entry. It is different from blinding, which hides the assignment after randomization from participants and assessors."
+  },
+  {
+    "id": 354,
+    "domain": "knowledge_and_expertise",
+    "front": "What does intention-to-treat analysis do, and why is it preferred for the primary analysis?",
+    "back": "It analyzes participants in the groups they were randomized to, regardless of adherence or crossover. This preserves the balance created by randomization and reflects real-world effectiveness."
+  },
+  {
+    "id": 355,
+    "domain": "knowledge_and_expertise",
+    "front": "What type of bias occurs when participants who drop out differ systematically between study arms?",
+    "back": "Attrition bias, a form of bias from incomplete follow-up. If losses are unequal or related to outcome, results are distorted. Intention-to-treat analysis and limiting loss to follow-up reduce it."
+  },
+  {
+    "id": 356,
+    "domain": "knowledge_and_expertise",
+    "front": "What is recall bias, and which study design is most vulnerable to it?",
+    "back": "Cases remember or report past exposures differently from controls. Case-control studies are most vulnerable because exposure is assessed retrospectively. Using records or objective exposure data reduces it."
+  },
+  {
+    "id": 357,
+    "domain": "knowledge_and_expertise",
+    "front": "What is publication bias, and how does it affect a meta-analysis?",
+    "back": "Studies with positive or statistically significant results are more likely to be published. A meta-analysis built only on published studies then overestimates benefit. A funnel plot can suggest its presence."
+  },
+  {
+    "id": 358,
+    "domain": "knowledge_and_expertise",
+    "front": "Define a confounder and name the two conditions it must meet.",
+    "back": "A confounder is associated with both the exposure and the outcome, and is not on the causal pathway between them. It distorts the apparent effect. Example: smoking in a coffee and lung cancer study."
+  },
+  {
+    "id": 359,
+    "domain": "knowledge_and_expertise",
+    "front": "Name methods to control confounding at the design stage and at the analysis stage.",
+    "back": "Design: randomization, restriction, matching. Analysis: stratification, multivariable regression, propensity scores. Only randomization controls for unknown confounders; the others handle only measured ones."
+  },
+  {
+    "id": 360,
+    "domain": "knowledge_and_expertise",
+    "front": "What is effect modification, and how does it differ from confounding?",
+    "back": "Effect modification means the treatment effect truly differs across levels of a third variable (for example, by sex or age). It is a finding to report by subgroup, not a bias to remove."
+  },
+  {
+    "id": 361,
+    "domain": "knowledge_and_expertise",
+    "front": "How should a 95% confidence interval for a relative risk be used to judge statistical significance?",
+    "back": "If the interval includes 1.0, the result is not statistically significant at the 0.05 level. For a difference measure such as absolute risk reduction, the null value is 0. Narrow intervals mean greater precision."
+  },
+  {
+    "id": 362,
+    "domain": "knowledge_and_expertise",
+    "front": "What does a p value of 0.03 mean?",
+    "back": "If the null hypothesis were true, a result at least this extreme would occur about 3% of the time by chance. It is not the probability the null is true, and it says nothing about clinical importance."
+  },
+  {
+    "id": 363,
+    "domain": "knowledge_and_expertise",
+    "front": "Define type I and type II errors in hypothesis testing.",
+    "back": "Type I (alpha): rejecting a true null hypothesis, a false positive, usually set at 0.05. Type II (beta): failing to reject a false null hypothesis, a false negative. Power equals 1 minus beta."
+  },
+  {
+    "id": 364,
+    "domain": "knowledge_and_expertise",
+    "front": "A trial reports no significant difference with a small sample. What is the key concern?",
+    "back": "Low statistical power, so a type II error is possible: a real difference may have been missed. Larger samples, bigger effect sizes, and lower variability all increase power."
+  },
+  {
+    "id": 365,
+    "domain": "knowledge_and_expertise",
+    "front": "Control event rate is 20% and experimental event rate is 15%. Calculate ARR and RRR.",
+    "back": "ARR = 20% minus 15% = 5%. RRR = ARR divided by control event rate = 5 / 20 = 25%. The RRR sounds larger than the ARR, so always check the absolute figure."
+  },
+  {
+    "id": 366,
+    "domain": "knowledge_and_expertise",
+    "front": "What does a relative risk of 0.70 mean?",
+    "back": "The event risk in the treated group is 70% of the risk in the control group, a 30% relative risk reduction. An RR of 1.0 means no difference, and above 1.0 means increased risk."
+  },
+  {
+    "id": 367,
+    "domain": "knowledge_and_expertise",
+    "front": "How is number needed to treat calculated, and what does an NNT of 25 mean?",
+    "back": "NNT = 1 / ARR (as a decimal). An NNT of 25 means 25 patients must be treated over the trial's time frame to prevent one additional event. Always state the duration."
+  },
+  {
+    "id": 368,
+    "domain": "knowledge_and_expertise",
+    "front": "Event rate is 4% on drug and 2% on placebo for a bleeding event. Calculate the NNH.",
+    "back": "Absolute risk increase = 4% minus 2% = 2% (0.02). NNH = 1 / 0.02 = 50. One additional bleed occurs for every 50 patients treated over the trial duration."
+  },
+  {
+    "id": 369,
+    "domain": "knowledge_and_expertise",
+    "front": "When is an odds ratio approximately equal to the relative risk?",
+    "back": "When the outcome is rare (generally under about 10%). For common outcomes the odds ratio overstates the effect compared with relative risk. Case-control studies can only report odds ratios."
+  },
+  {
+    "id": 370,
+    "domain": "knowledge_and_expertise",
+    "front": "What does a hazard ratio of 0.80 from a survival analysis indicate?",
+    "back": "The instantaneous rate of the event at any point in time is 20% lower in the treatment group. Hazard ratios use time-to-event data and account for censoring, unlike simple risk ratios."
+  },
+  {
+    "id": 371,
+    "domain": "knowledge_and_expertise",
+    "front": "Define sensitivity and specificity, and state the mnemonics for using them.",
+    "back": "Sensitivity = true positives / all with disease; specificity = true negatives / all without disease. SnNout: a negative result on a sensitive test rules out. SpPin: a positive result on a specific test rules in."
+  },
+  {
+    "id": 372,
+    "domain": "knowledge_and_expertise",
+    "front": "How does disease prevalence change positive predictive value and negative predictive value?",
+    "back": "Higher prevalence raises PPV and lowers NPV; lower prevalence does the opposite. Sensitivity and specificity are properties of the test and do not change with prevalence. Likelihood ratios are also prevalence independent."
+  },
+  {
+    "id": 373,
+    "domain": "knowledge_and_expertise",
+    "front": "Which test compares means of two independent groups, and which compares proportions between groups?",
+    "back": "Unpaired t-test compares two independent means (normally distributed data); ANOVA handles three or more groups. Chi-square compares proportions or categorical data. Non-parametric options include Mann-Whitney U for skewed data."
+  },
+  {
+    "id": 374,
+    "domain": "knowledge_and_expertise",
+    "front": "In a non-inferiority trial, what does the non-inferiority margin represent?",
+    "back": "The largest loss of efficacy versus the comparator that is still considered clinically acceptable. The new drug is non-inferior if the confidence interval bound for the difference does not cross this pre-specified margin."
+  },
+  {
+    "id": 375,
+    "domain": "knowledge_and_expertise",
+    "front": "A non-inferiority trial reports a 95% CI for the hazard ratio of 0.90 to 1.10 with a margin of 1.30. What is the conclusion?",
+    "back": "Non-inferiority is shown, because the upper bound (1.10) stays below the margin (1.30). Superiority is not shown, because the interval includes 1.0."
+  },
+  {
+    "id": 376,
+    "domain": "knowledge_and_expertise",
+    "front": "How do you read a forest plot square and horizontal line for one study in a meta-analysis?",
+    "back": "The square is the study's point estimate, with size reflecting its weight. The horizontal line is its 95% CI. A line crossing the null value (1 for ratios, 0 for differences) is not statistically significant."
+  },
+  {
+    "id": 377,
+    "domain": "knowledge_and_expertise",
+    "front": "What does an I-squared value of 75% in a meta-analysis indicate, and what should you do?",
+    "back": "High heterogeneity: about 75% of the variability in results is due to real between-study differences rather than chance. Interpret the pooled estimate cautiously and explore causes such as population, dose, or design."
+  },
+  {
+    "id": 378,
+    "domain": "knowledge_and_expertise",
+    "front": "In GRADE, what are the four overall certainty (quality) of evidence ratings?",
+    "back": "High, moderate, low, and very low. Randomized trials start high and observational studies start low, then ratings move down for risk of bias, inconsistency, indirectness, imprecision, or publication bias."
+  },
+  {
+    "id": 379,
+    "domain": "knowledge_and_expertise",
+    "front": "What is the difference between certainty of evidence and strength of recommendation in GRADE?",
+    "back": "Certainty is confidence in the effect estimate. Strength (strong or conditional) also weighs benefits versus harms, patient values, and costs. A strong recommendation can rest on low certainty evidence."
+  },
+  {
+    "id": 380,
+    "domain": "knowledge_and_expertise",
+    "front": "Why is a surrogate endpoint such as LDL-C or HbA1c less reliable than a clinical endpoint?",
+    "back": "A surrogate is a lab or physiologic marker, not how a patient feels or survives. Improving it does not always improve outcomes, so validate it against clinical endpoints such as MI, stroke, or death."
+  },
+  {
+    "id": 381,
+    "domain": "knowledge_and_expertise",
+    "front": "What is the main interpretive problem with composite endpoints?",
+    "back": "Components can differ in importance and effect. A result driven mostly by the softest component (for example, revascularization) may overstate benefit on hard outcomes such as death. Check each component separately."
+  },
+  {
+    "id": 382,
+    "domain": "knowledge_and_expertise",
+    "front": "How should a pharmacist treat a positive result from a post hoc subgroup analysis?",
+    "back": "As hypothesis-generating only. Multiple unplanned subgroup comparisons inflate the false-positive rate. Look for pre-specification, a significant interaction test, and confirmation in other trials before applying it."
+  },
+  {
+    "id": 383,
+    "domain": "knowledge_and_expertise",
+    "front": "Which Canadian drug information resource is the primary source for product monographs, and what does e-CPS add?",
+    "back": "The Compendium of Pharmaceuticals and Specialties (CPS) summarizes Canadian product monographs. e-CPS is the online version, with searchable drug information plus interaction and product tools for fast Canadian labelling checks."
+  },
+  {
+    "id": 384,
+    "domain": "knowledge_and_expertise",
+    "front": "When is Lexicomp or Micromedex the better resource than CPS?",
+    "back": "For detailed interaction ratings, IV compatibility, dosing adjustments, pregnancy and lactation data, and off-label uses. Note that US labelling may differ from Canadian, so confirm availability and approved indications."
+  },
+  {
+    "id": 385,
+    "domain": "knowledge_and_expertise",
+    "front": "Which resource would you use for a patient question about the safety and interactions of a herbal supplement?",
+    "back": "Natural Medicines (formerly Natural Medicines Comprehensive Database) or the Health Canada Natural Health Products database for licensed products. They grade evidence for efficacy and safety and list interactions."
+  },
+  {
+    "id": 386,
+    "domain": "knowledge_and_expertise",
+    "front": "What are the first steps in a systematic approach to a drug information request?",
+    "back": "Identify the requestor and gather background information, then determine the ultimate question the requestor really needs answered. The initial question is often vague or not the true need."
+  },
+  {
+    "id": 387,
+    "domain": "knowledge_and_expertise",
+    "front": "After searching the literature for a drug information request, what steps remain?",
+    "back": "Evaluate and synthesize the evidence, formulate and communicate a clear response (verbal or written, tailored to the requestor), document the request, and follow up to confirm usefulness and outcome."
+  },
+  {
+    "id": 388,
+    "domain": "knowledge_and_expertise",
+    "front": "Where do Canadian pharmacists report a suspected adverse drug reaction, and which reactions are priorities?",
+    "back": "To Canada Vigilance (Health Canada, via MedEffect Canada), or the manufacturer. Priority reports are serious, unexpected, or involve new drugs. Health care professionals report voluntarily, though hospitals must report serious ADRs."
+  },
+  {
+    "id": 389,
+    "domain": "knowledge_and_expertise",
+    "front": "Name the common causality categories used to assess whether a drug caused a reaction (WHO-UMC style).",
+    "back": "Certain, probable or likely, possible, unlikely, and unassessable. Assessment weighs timing, dechallenge and rechallenge response, alternative causes, and whether the reaction is a known effect of the drug."
+  },
+  {
+    "id": 390,
+    "domain": "knowledge_and_expertise",
+    "front": "What happens to a CYP3A4 substrate when a strong inhibitor such as clarithromycin or ketoconazole is added?",
+    "back": "Metabolism falls, so substrate levels and effects rise (for example simvastatin myopathy risk). Avoid the combination, reduce the dose, or choose a drug not metabolized by CYP3A4."
+  },
+  {
+    "id": 391,
+    "domain": "knowledge_and_expertise",
+    "front": "What is the effect of a strong CYP inducer such as rifampin or carbamazepine on a CYP substrate?",
+    "back": "It increases enzyme activity, lowering substrate levels and efficacy. Onset is slow (days to weeks) and the effect persists for weeks after stopping, so doses may need adjusting both when starting and stopping the inducer."
+  },
+  {
+    "id": 392,
+    "domain": "knowledge_and_expertise",
+    "front": "Why does P-glycoprotein inhibition matter for digoxin?",
+    "back": "P-gp pumps digoxin out of gut cells and into urine. Inhibitors such as amiodarone, verapamil, or clarithromycin raise digoxin levels and toxicity risk. Reduce the digoxin dose and monitor levels."
+  },
+  {
+    "id": 393,
+    "domain": "knowledge_and_expertise",
+    "front": "Why does omeprazole or esomeprazole reduce the effectiveness of clopidogrel, and what is the practical choice?",
+    "back": "They inhibit CYP2C19, which activates the clopidogrel prodrug. Reduced activation weakens platelet inhibition. Use pantoprazole instead if a PPI is needed, as it has minimal CYP2C19 effect."
+  },
+  {
+    "id": 394,
+    "domain": "knowledge_and_expertise",
+    "front": "Which patients get little benefit from codeine, and which are at risk of toxicity from it?",
+    "back": "CYP2D6 poor metabolizers get little analgesia because codeine is not converted to morphine. Ultra-rapid metabolizers form excess morphine and risk respiratory depression, including breastfed infants of such mothers."
+  },
+  {
+    "id": 395,
+    "domain": "knowledge_and_expertise",
+    "front": "What does the HLA-B*15:02 allele predict, and in whom is testing recommended before carbamazepine?",
+    "back": "A high risk of Stevens-Johnson syndrome and toxic epidermal necrolysis with carbamazepine. Testing is recommended in patients of Asian ancestry before starting; avoid carbamazepine if positive."
+  },
+  {
+    "id": 396,
+    "domain": "knowledge_and_expertise",
+    "front": "When should a serum vancomycin or aminoglycoside trough be drawn, and why?",
+    "back": "Just before the next dose, once steady state is reached (usually before the fourth dose). A trough reflects the lowest concentration and helps assess accumulation and toxicity risk."
+  },
+  {
+    "id": 397,
+    "domain": "knowledge_and_expertise",
+    "front": "When is therapeutic drug monitoring most useful, and what are the typical features of a drug that qualifies?",
+    "back": "Narrow therapeutic index, wide interpatient variability, concentration related effects or toxicity, and a clear concentration-response relationship. Examples include digoxin, lithium, phenytoin, and cyclosporine."
+  },
+  {
+    "id": 398,
+    "domain": "knowledge_and_expertise",
+    "front": "Why do TPMT and DPYD variants matter before thiopurine or fluoropyrimidine therapy?",
+    "back": "Low TPMT activity causes severe myelosuppression with azathioprine or mercaptopurine. DPYD deficiency causes severe toxicity with fluorouracil or capecitabine. Testing guides dose reduction or avoidance."
+  },
+  {
+    "id": 399,
+    "domain": "communication_and_collaboration",
+    "front": "Why are open-ended questions preferred over closed questions when starting a patient counselling session?",
+    "back": "Open-ended questions (for example, \"How do you take this medication?\") invite the patient to describe their own understanding and habits, revealing gaps and concerns that yes or no questions would hide."
+  },
+  {
+    "id": 400,
+    "domain": "communication_and_collaboration",
+    "front": "What are the Three Prime Questions used when counselling on a new prescription?",
+    "back": "What did your doctor tell you the medication is for? How did your doctor tell you to take it? What did your doctor tell you to expect? They show what the patient already knows before you counsel."
+  },
+  {
+    "id": 401,
+    "domain": "communication_and_collaboration",
+    "front": "What is the teach-back method and what does it confirm?",
+    "back": "The patient restates in their own words how they will take the medication. It checks how well you explained, not the patient's ability, and any error is corrected and rechecked."
+  },
+  {
+    "id": 402,
+    "domain": "communication_and_collaboration",
+    "front": "Why should the final step of counselling include a verification and an invitation for questions?",
+    "back": "A final check, such as asking the patient to show or explain the plan, confirms understanding and catches misunderstandings. An open invitation for questions gives permission to raise concerns not yet voiced."
+  },
+  {
+    "id": 403,
+    "domain": "communication_and_collaboration",
+    "front": "What reading level is generally recommended for written patient medication information?",
+    "back": "About a Grade 6 to 8 reading level, using short sentences, common words, active voice, and a clear font of at least 12 point, since many adults read below Grade 8."
+  },
+  {
+    "id": 404,
+    "domain": "communication_and_collaboration",
+    "front": "Why is a patient's numeracy a counselling concern, and how can you reduce risk with dosing instructions?",
+    "back": "Many patients struggle with fractions, mL measures and timing. Use simple whole numbers, state the exact device and marking (for example, \"5 mL, to the line on the syringe\"), and confirm with teach-back."
+  },
+  {
+    "id": 405,
+    "domain": "communication_and_collaboration",
+    "front": "When a patient has limited English proficiency, which is preferred: a trained interpreter or a family member?",
+    "back": "A trained medical interpreter is preferred. Family members may omit or alter information, lack medical vocabulary, and compromise privacy. Use family only briefly in emergencies or if the patient chooses it."
+  },
+  {
+    "id": 406,
+    "domain": "communication_and_collaboration",
+    "front": "Name two ways visual aids support counselling for patients with low health literacy.",
+    "back": "Pictograms and dosing calendars show timing and purpose without relying on text, and demonstrating devices such as inhalers or injectors with a placebo lets patients see and practise the technique."
+  },
+  {
+    "id": 407,
+    "domain": "communication_and_collaboration",
+    "front": "What is the difference between non-adherence caused by a patient's intentional versus unintentional decisions?",
+    "back": "Unintentional non-adherence is forgetting or misunderstanding (fix with reminders, simplification). Intentional non-adherence is a deliberate choice from beliefs, side effects or cost (explore concerns and negotiate)."
+  },
+  {
+    "id": 408,
+    "domain": "communication_and_collaboration",
+    "front": "Which communication approach explores a patient's ambivalence about taking a medication without lecturing?",
+    "back": "Motivational interviewing: use open questions, affirmations, reflective listening and summaries (OARS), roll with resistance, and let the patient voice their own reasons for change."
+  },
+  {
+    "id": 409,
+    "domain": "communication_and_collaboration",
+    "front": "List common practical strategies a pharmacist can use to improve adherence.",
+    "back": "Simplify the regimen (once daily, combination products), synchronize refills, offer blister packaging or pill organizers, set reminders, and address cost, side effects and beliefs causing missed doses."
+  },
+  {
+    "id": 410,
+    "domain": "communication_and_collaboration",
+    "front": "What adjustments help when counselling a patient with a hearing impairment?",
+    "back": "Face the patient in good light, reduce background noise, speak clearly at a normal pace without shouting, use written summaries, and confirm understanding with teach-back instead of assuming they heard."
+  },
+  {
+    "id": 411,
+    "domain": "communication_and_collaboration",
+    "front": "When counselling a caregiver about a child's liquid medication, what is a key safety instruction about measuring?",
+    "back": "Use an oral syringe or the supplied dosing device marked in mL, never a household spoon. Confirm the caregiver can show the dose volume, as dosing errors in children often come from spoon measures."
+  },
+  {
+    "id": 412,
+    "domain": "communication_and_collaboration",
+    "front": "How should a pharmacist approach counselling across cultures when beliefs about a medication differ from medical advice?",
+    "back": "Ask about the patient's beliefs and health practices respectfully, acknowledge them, avoid assumptions, and negotiate a plan that fits their values while explaining risks clearly, including interactions with traditional remedies."
+  },
+  {
+    "id": 413,
+    "domain": "communication_and_collaboration",
+    "front": "What does SBAR stand for when communicating with a prescriber?",
+    "back": "Situation, Background, Assessment, Recommendation. It structures a concise call: state the problem, give relevant history, share your clinical assessment, then make a specific request or suggestion."
+  },
+  {
+    "id": 414,
+    "domain": "communication_and_collaboration",
+    "front": "What should you have ready before calling a prescriber to clarify an order?",
+    "back": "The patient's name and identifiers, the exact order and the concern, relevant allergies, labs and current medications, and a proposed solution, so the call is brief and an answer can be given quickly."
+  },
+  {
+    "id": 415,
+    "domain": "communication_and_collaboration",
+    "front": "When a pharmacist declines to fill a prescription for safety reasons, what must they do afterward?",
+    "back": "Explain the reason to the patient, contact the prescriber when appropriate, offer alternatives or referral so care is not interrupted, and document the decision and the communication in the patient record."
+  },
+  {
+    "id": 416,
+    "domain": "communication_and_collaboration",
+    "front": "What is meant by the circle of care in sharing patient health information?",
+    "back": "The providers directly involved in a patient's care who may share information under implied consent for that care. Sharing with others outside the circle generally needs the patient's express consent."
+  },
+  {
+    "id": 417,
+    "domain": "communication_and_collaboration",
+    "front": "What are the four parts of a SOAP pharmacist care note?",
+    "back": "Subjective (patient reports), Objective (measurable data such as labs and vitals), Assessment (your evaluation of the drug therapy problem), and Plan (actions, recommendations, monitoring and follow-up)."
+  },
+  {
+    "id": 418,
+    "domain": "communication_and_collaboration",
+    "front": "What does a DAP note include, and how does it differ from SOAP?",
+    "back": "Data, Assessment, Plan. It combines subjective and objective information into one Data section, making a shorter note that still records findings, your clinical judgment and what was done or recommended."
+  },
+  {
+    "id": 419,
+    "domain": "communication_and_collaboration",
+    "front": "What general legal standard applies to pharmacy documentation of patient care?",
+    "back": "Records must be accurate, timely, legible, attributable to the person who made them, and kept for the period set by provincial regulation. Corrections are made by clear amendment, never by erasing the original entry."
+  },
+  {
+    "id": 420,
+    "domain": "communication_and_collaboration",
+    "front": "What is a Best Possible Medication History (BPMH)?",
+    "back": "A comprehensive list of all medications a patient actually takes, including dose, route and frequency, gathered from at least two sources, one being a patient or caregiver interview, and checked for non-prescription products."
+  },
+  {
+    "id": 421,
+    "domain": "communication_and_collaboration",
+    "front": "Why is medication reconciliation especially important at transitions of care such as hospital discharge?",
+    "back": "Unintended discrepancies (omissions, duplications, wrong doses) are common at admission, transfer and discharge. Comparing the BPMH with current orders resolves them and communicates changes to the patient and next provider."
+  },
+  {
+    "id": 422,
+    "domain": "communication_and_collaboration",
+    "front": "What are the key steps when disclosing a medication error to a patient?",
+    "back": "Tell the patient promptly and honestly what happened, express empathy and apologize, explain the effects and the steps to correct and prevent recurrence, report internally, and document the disclosure."
+  },
+  {
+    "id": 423,
+    "domain": "leadership_and_stewardship",
+    "front": "What temperature range must a pharmacy vaccine refrigerator maintain, and how often should temperatures be checked?",
+    "back": "Keep vaccines at 2 to 8 degrees C and never freeze them. Check and record the minimum and maximum temperatures at least daily, ideally twice daily, so a cold chain break is caught early."
+  },
+  {
+    "id": 424,
+    "domain": "leadership_and_stewardship",
+    "front": "What screening questions should a pharmacist ask before administering any vaccine?",
+    "back": "Ask about previous reactions or allergy to vaccine components, current moderate or severe illness, immunocompromise, pregnancy, and recent vaccines. These findings decide whether to vaccinate, defer, or refer."
+  },
+  {
+    "id": 425,
+    "domain": "leadership_and_stewardship",
+    "front": "How long should a patient be observed after vaccination, and what is the first-line treatment for anaphylaxis?",
+    "back": "Observe for at least 15 minutes (longer if there is a concern). Anaphylaxis: epinephrine 0.01 mg/kg IM into the anterolateral thigh (adult 0.3 to 0.5 mg), then call 911."
+  },
+  {
+    "id": 426,
+    "domain": "leadership_and_stewardship",
+    "front": "How is naloxone given for a suspected opioid overdose in a community setting?",
+    "back": "Call 911, give naloxone IM (0.4 mg) or intranasal (4 mg), provide rescue breaths, and repeat the dose in 2 to 3 minutes if there is no response. Stay with the person."
+  },
+  {
+    "id": 427,
+    "domain": "leadership_and_stewardship",
+    "front": "What protection does the Good Samaritan Drug Overdose Act give people who call 911 for an overdose?",
+    "back": "Federal law protects the caller and the person overdosing from charges for simple possession of a controlled substance at the scene. It encourages people to seek help without fear of arrest."
+  },
+  {
+    "id": 428,
+    "domain": "leadership_and_stewardship",
+    "front": "Why should pharmacists distribute sterile needles and injection supplies without judgment?",
+    "back": "Access to new sterile supplies reduces sharing and the spread of HIV and hepatitis C. Non-judgmental service keeps people in contact with health care, and a one-for-one return should not be required."
+  },
+  {
+    "id": 429,
+    "domain": "leadership_and_stewardship",
+    "front": "Which combination of nicotine replacement therapy is more effective than a single product for quitting smoking?",
+    "back": "Combination NRT: a long-acting nicotine patch plus a short-acting form (gum, lozenge, inhaler) for cravings. It improves quit rates over one product. Varenicline is the most effective single agent."
+  },
+  {
+    "id": 430,
+    "domain": "leadership_and_stewardship",
+    "front": "Who should be screened for type 2 diabetes with A1C, and how often, according to Diabetes Canada?",
+    "back": "Screen adults 40 years and older, or use a validated risk calculator, every 3 years. Screen more often (yearly) or earlier for those at high risk. An A1C of 6.5% or higher is diagnostic."
+  },
+  {
+    "id": 431,
+    "domain": "leadership_and_stewardship",
+    "front": "What is the pharmacist's role when a patient with a likely viral upper respiratory infection requests an antibiotic?",
+    "back": "Explain that antibiotics do not treat viruses and add resistance risk and adverse effects. Recommend symptom relief, give clear return precautions, and refer if red flags or worsening appear."
+  },
+  {
+    "id": 432,
+    "domain": "leadership_and_stewardship",
+    "front": "What is an antibiotic time-out in antimicrobial stewardship?",
+    "back": "A reassessment at about 48 to 72 hours, once culture results are back, to confirm the drug is still needed, narrow the spectrum, switch to oral therapy, or stop it, and set the shortest effective duration."
+  },
+  {
+    "id": 433,
+    "domain": "leadership_and_stewardship",
+    "front": "What opioid stewardship advice should pharmacists give patients about leftover opioids?",
+    "back": "Store them locked and out of reach of children and visitors, and return unused or expired opioids to a pharmacy for safe disposal. This reduces diversion, accidental poisoning, and non-medical use."
+  },
+  {
+    "id": 434,
+    "domain": "leadership_and_stewardship",
+    "front": "What should a pharmacy's emergency preparedness plan include for a disaster or outbreak?",
+    "back": "A business continuity plan: backup power and cold chain protection, record access, staff roles and contact lists, supply and medication continuity, and reporting of notifiable diseases to public health as provincial law requires."
+  },
+  {
+    "id": 435,
+    "domain": "professionalism",
+    "front": "What does a Drug Identification Number (DIN) tell a pharmacist about a product sold in Canada?",
+    "back": "A DIN is an 8 digit number assigned by Health Canada to a marketed drug product. It shows the product has been reviewed and authorized for sale, and it identifies the manufacturer, drug, strength and form."
+  },
+  {
+    "id": 436,
+    "domain": "professionalism",
+    "front": "What are a Notice of Compliance (NOC) and the Special Access Program (SAP) in Canada?",
+    "back": "An NOC is issued when a drug submission meets Health Canada requirements, after which a DIN is assigned. The SAP lets practitioners request an unauthorized drug for a serious or life threatening condition when conventional therapies have failed or are unsuitable."
+  },
+  {
+    "id": 437,
+    "domain": "professionalism",
+    "front": "Which number identifies a licensed natural health product on a Canadian label?",
+    "back": "A Natural Product Number (NPN), or DIN-HM for homeopathic medicines. It shows Health Canada has assessed the product for safety, efficacy and quality under the Natural Health Products Regulations."
+  },
+  {
+    "id": 438,
+    "domain": "professionalism",
+    "front": "Under the NAPRA national drug schedules, what defines a Schedule I drug?",
+    "back": "Schedule I drugs require a prescription for sale and are dispensed by a pharmacist. The pharmacist must be involved in the sale, and the product must be kept where the public has no access."
+  },
+  {
+    "id": 439,
+    "domain": "professionalism",
+    "front": "How does NAPRA Schedule II differ from Schedule III in how the product may be displayed and sold?",
+    "back": "Schedule II drugs need no prescription but are kept in the pharmacy area with no public access, and the pharmacist must intervene at sale. Schedule III drugs may be self-selected from an area within the pharmacist's view."
+  },
+  {
+    "id": 440,
+    "domain": "professionalism",
+    "front": "What are the conditions of sale for an unscheduled drug under the NAPRA schedules?",
+    "back": "Unscheduled drugs may be sold from any retail outlet without professional supervision. They need no prescription, though pharmacists should still counsel and offer advice when asked or when a concern arises."
+  },
+  {
+    "id": 441,
+    "domain": "professionalism",
+    "front": "What is the role of the federal Prescription Drug List (PDL) in Canada?",
+    "back": "The PDL, maintained by Health Canada under the Food and Drugs Regulations, lists medicinal ingredients that require a prescription for sale. NAPRA schedules then guide how non prescription drugs are sold."
+  },
+  {
+    "id": 442,
+    "domain": "professionalism",
+    "front": "Within how many days must a pharmacist report a loss or theft of a narcotic to Health Canada?",
+    "back": "Within 10 days of discovering it. The Narcotic Control Regulations require a written report of any loss or theft of narcotics, identifying the substance and quantity involved."
+  },
+  {
+    "id": 443,
+    "domain": "professionalism",
+    "front": "Which law governs benzodiazepines such as lorazepam, and how many refills can a prescription carry?",
+    "back": "The Benzodiazepines and Other Targeted Substances Regulations. A prescription may be refilled only if the prescriber authorizes it, up to 5 refills, and refills must be dispensed within one year of the prescription date."
+  },
+  {
+    "id": 444,
+    "domain": "professionalism",
+    "front": "What must a pharmacist do when dispensing a controlled drug or narcotic as a part fill?",
+    "back": "Record each part fill with the date and quantity dispensed and the quantity remaining, and keep the prescription on file. The total dispensed must never exceed what the prescriber authorized."
+  },
+  {
+    "id": 445,
+    "domain": "professionalism",
+    "front": "How long must pharmacies retain records for narcotics and targeted substances under federal regulations?",
+    "back": "At least two years. Prescription, sale and inventory records must be kept and be readily available for inspection by Health Canada or provincial regulators."
+  },
+  {
+    "id": 446,
+    "domain": "professionalism",
+    "front": "What is the core mandate of a provincial pharmacy regulatory college?",
+    "back": "To protect the public interest by regulating pharmacists and pharmacy technicians. It sets entry and practice standards, licenses practitioners and pharmacies, and investigates and disciplines misconduct."
+  },
+  {
+    "id": 447,
+    "domain": "professionalism",
+    "front": "What is the difference between a college complaints committee and its discipline committee?",
+    "back": "The complaints committee investigates a concern and decides on an outcome such as dismissal, advice or referral. The discipline committee holds a hearing on allegations of professional misconduct and can impose penalties, up to revoking registration."
+  },
+  {
+    "id": 448,
+    "domain": "professionalism",
+    "front": "What role do NAPRA model standards of practice play for pharmacists across Canada?",
+    "back": "NAPRA develops national model standards, competencies and guidelines to harmonize practice. Provincial colleges adopt or adapt them, so they inform what is enforceable in each province."
+  },
+  {
+    "id": 449,
+    "domain": "professionalism",
+    "front": "What must a pharmacist do to maintain registration and show continuing competence each year?",
+    "back": "Complete the college's required learning and reflection, often a portfolio or professional development record, and renew registration. Details and audit rules vary by province."
+  },
+  {
+    "id": 450,
+    "domain": "professionalism",
+    "front": "Why must pharmacists carry professional liability insurance, and who requires it?",
+    "back": "Provincial colleges require it as a condition of registration so patients can be compensated for harm from practice errors. Minimum coverage amounts vary by province."
+  },
+  {
+    "id": 451,
+    "domain": "professionalism",
+    "front": "Which Canadian privacy law governs most community pharmacy chains in provinces without substantially similar health legislation?",
+    "back": "PIPEDA, the federal Personal Information Protection and Electronic Documents Act, covers private sector commercial activity. Provinces such as Ontario and Alberta have health specific laws that apply to custodians instead."
+  },
+  {
+    "id": 452,
+    "domain": "professionalism",
+    "front": "What are the key fair information principles that underpin PIPEDA?",
+    "back": "Ten principles, including accountability, identifying purposes, consent, limiting collection, limiting use and disclosure, accuracy, safeguards, openness, individual access and challenging compliance."
+  },
+  {
+    "id": 453,
+    "domain": "professionalism",
+    "front": "Under PIPEDA, when must an organization report a privacy breach to the Privacy Commissioner?",
+    "back": "When the breach creates a real risk of significant harm to an individual. The organization must also notify affected individuals and keep a record of all breaches for 24 months."
+  },
+  {
+    "id": 454,
+    "domain": "professionalism",
+    "front": "What four elements make consent to treatment valid?",
+    "back": "It must be given by a capable person, be voluntary, relate to the proposed treatment, and be informed, meaning risks, benefits, alternatives and consequences of refusing were explained."
+  },
+  {
+    "id": 455,
+    "domain": "professionalism",
+    "front": "How is a minor's ability to consent to treatment generally assessed in Canada?",
+    "back": "By capacity rather than a fixed age in most provinces. A mature minor who understands the nature and consequences of the treatment may consent. Quebec sets age 14 for many decisions."
+  },
+  {
+    "id": 456,
+    "domain": "professionalism",
+    "front": "When a patient lacks capacity, how should a substitute decision maker decide?",
+    "back": "First follow the patient's known prior capable wishes. If those are unknown, decide in the patient's best interests. The hierarchy of who may act is set by provincial law."
+  },
+  {
+    "id": 457,
+    "domain": "professionalism",
+    "front": "May a pharmacist share a patient's medication information with a family member without consent?",
+    "back": "Generally no. Disclosure to family needs the patient's express or implied consent unless the patient is incapable, in which case the substitute decision maker may receive the information needed for care."
+  },
+  {
+    "id": 458,
+    "domain": "professionalism",
+    "front": "What can a pharmacist disclose to police without patient consent?",
+    "back": "Generally only with a warrant, subpoena or court order, or where the law permits or requires it, such as imminent risk of serious bodily harm. Verify the legal authority and release the minimum necessary."
+  },
+  {
+    "id": 459,
+    "domain": "professionalism",
+    "front": "What is a lock-box (consent directive) request in a health information system?",
+    "back": "A patient's right in some provinces, such as Ontario under PHIPA, to withhold or withdraw consent to share part or all of their health record with other providers. The pharmacist must respect it, with limited exceptions."
+  },
+  {
+    "id": 460,
+    "domain": "professionalism",
+    "front": "What does the duty to report a child in need of protection require of a pharmacist?",
+    "back": "Anyone, including pharmacists, who suspects a child is being abused or neglected must report promptly to the child protection agency. The duty is personal and ongoing, and cannot be delegated to a colleague."
+  },
+  {
+    "id": 461,
+    "domain": "professionalism",
+    "front": "What must a regulated pharmacist do on learning that another health professional sexually abused a patient?",
+    "back": "Report it to that professional's regulatory college, as mandated in provinces like Ontario under the RHPA. The patient's name usually needs consent unless the patient is under 18 or otherwise exempt, and rules vary by province."
+  },
+  {
+    "id": 462,
+    "domain": "professionalism",
+    "front": "Name the core principles of health care ethics used to analyze a pharmacist's dilemma.",
+    "back": "Autonomy, beneficence, non-maleficence, justice, plus fidelity and veracity. Conflicts arise when principles pull in different directions, so weigh them using a structured decision framework."
+  },
+  {
+    "id": 463,
+    "domain": "professionalism",
+    "front": "What are the usual steps of an ethical decision making framework?",
+    "back": "Identify the issue, gather facts, identify stakeholders and options, apply ethical principles and standards, decide, act, then evaluate the outcome and document your reasoning."
+  },
+  {
+    "id": 464,
+    "domain": "professionalism",
+    "front": "How should a pharmacist handle a gift or incentive from a manufacturer or prescriber?",
+    "back": "Decline anything that could influence recommendations or dispensing. Inducements and fee splitting arrangements with prescribers or industry are prohibited, and any real or perceived conflict must be avoided or disclosed."
+  },
+  {
+    "id": 465,
+    "domain": "professionalism",
+    "front": "Why is a sexual or romantic relationship with a current patient considered professional misconduct for a pharmacist?",
+    "back": "The pharmacist holds power and sensitive health information, so the relationship is exploitative regardless of consent. Colleges treat it as sexual abuse or serious misconduct, and it can lead to revocation of registration."
+  },
+  {
+    "id": 466,
+    "domain": "professionalism",
+    "front": "What is the safest approach when a pharmacist is asked to provide care for a family member or close friend?",
+    "back": "Avoid it when possible because objectivity and documentation suffer. Provide care only in emergencies or when no one else is reasonably available, keep a proper patient record, and never prescribe or dispense controlled substances to them."
+  },
+  {
+    "id": 467,
+    "domain": "professionalism",
+    "front": "A pharmacist has a conscientious objection to a requested service. What must they do for the patient?",
+    "back": "Inform the patient of the objection respectfully, then refer or ensure timely access to another provider without delay. Never obstruct, judge, or abandon the patient, and provide care in an emergency."
+  },
+  {
+    "id": 468,
+    "domain": "professionalism",
+    "front": "Can a pharmacist impose personal moral beliefs on a patient when declining a service?",
+    "back": "No. The objection protects the pharmacist's own conscience only. Patient interests come first: no lecturing or pressure, no delaying access, and no breach of the patient's privacy about the request."
+  },
+  {
+    "id": 469,
+    "domain": "professionalism",
+    "front": "Under Canada's Cannabis Act, how does medical access to cannabis differ from a usual prescription drug?",
+    "back": "Cannabis is not a Health Canada approved drug with a DIN. Patients get a medical document from a health care practitioner and buy from a federally licensed seller, or register to grow. Pharmacy dispensing is not the usual route."
+  },
+  {
+    "id": 470,
+    "domain": "professionalism",
+    "front": "Which drug interaction concern applies to cannabidiol (CBD) and clobazam?",
+    "back": "CBD inhibits CYP2C19 and CYP3A4, raising the active metabolite of clobazam (N-desmethylclobazam). This can increase sedation, so the benzodiazepine dose may need reducing and the patient needs monitoring."
+  },
+  {
+    "id": 471,
+    "domain": "professionalism",
+    "front": "What are key counselling points about cannabis and other medications?",
+    "back": "Cannabis adds to CNS depression with opioids, benzodiazepines, and alcohol. Smoked cannabis induces CYP1A2 (can lower clozapine or theophylline levels). Cannabis may raise INR with warfarin, so monitor closely. Advise against driving after use."
+  },
+  {
+    "id": 472,
+    "domain": "professionalism",
+    "front": "What change in 2021 broadened eligibility for medical assistance in dying (MAID) under the Criminal Code?",
+    "back": "Bill C-7 removed the requirement that natural death be reasonably foreseeable. Two tracks now exist: Track 1 when death is reasonably foreseeable, and Track 2 when it is not, with extra safeguards."
+  },
+  {
+    "id": 473,
+    "domain": "professionalism",
+    "front": "What are core eligibility criteria and safeguards for MAID in Canada?",
+    "back": "The person must be 18 or older, capable, with a grievous and irremediable medical condition, and give informed, voluntary written consent, witnessed. Two independent practitioners must assess. Track 2 requires a 90 day assessment period."
+  },
+  {
+    "id": 474,
+    "domain": "professionalism",
+    "front": "What is the pharmacist's role in medical assistance in dying?",
+    "back": "Pharmacists may dispense the MAID drugs on a practitioner's prescription or order, and the Criminal Code protects those who assist. Pharmacists may decline conscientiously but should refer or ensure access, and follow provincial protocols."
+  },
+  {
+    "id": 475,
+    "domain": "professionalism",
+    "front": "What does a just culture approach to medication incidents emphasize?",
+    "back": "It separates system failures from individual blame. Human error is managed through system redesign, at risk behaviour through coaching, and reckless behaviour through discipline. This encourages open reporting and learning."
+  },
+  {
+    "id": 476,
+    "domain": "professionalism",
+    "front": "What is the purpose of ISMP Canada in pharmacy practice?",
+    "back": "ISMP Canada is an independent national organization that collects medication incident reports, analyzes them, and shares recommendations and alerts to prevent harm. Pharmacies report incidents to it and to provincial programs."
+  },
+  {
+    "id": 477,
+    "domain": "professionalism",
+    "front": "What do continuous quality improvement (CQI) programs require pharmacies to do after a medication incident?",
+    "back": "Document the incident, disclose it to the patient, analyze contributing factors, and implement system changes to prevent recurrence. Many provinces require staff review, regular meetings, and reporting to a program such as ISMP Canada."
+  },
+  {
+    "id": 478,
+    "domain": "professionalism",
+    "front": "What are the main steps of a root cause analysis after a serious medication error?",
+    "back": "Gather facts and the timeline, map what happened, identify contributing system factors (staffing, workflow, labelling, communication), then design corrective actions with owners and follow up. Focus on systems, not blaming one person."
+  },
+  {
+    "id": 479,
+    "domain": "professionalism",
+    "front": "Name four classes of high-alert medications that need extra safeguards.",
+    "back": "Insulin, opioids, anticoagulants, and concentrated electrolytes such as potassium chloride. Chemotherapy and oral methotrexate also qualify. Safeguards include independent double checks, standardized concentrations, and clear storage and labelling."
+  },
+  {
+    "id": 480,
+    "domain": "professionalism",
+    "front": "What is tall man lettering and why is it used?",
+    "back": "It capitalizes the differing letters in look-alike sound-alike drug names, such as hydrOXYzine and hydrALAZINE, or predniSONE and prednisoLONE. This draws attention to the difference and reduces selection errors."
+  },
+  {
+    "id": 481,
+    "domain": "professionalism",
+    "front": "What does the PDSA cycle stand for in quality improvement?",
+    "back": "Plan, Do, Study, Act. Test a small change on a small scale, study the results against the prediction, then adopt, adapt, or abandon the change before scaling up."
+  },
+  {
+    "id": 482,
+    "domain": "professionalism",
+    "front": "What is the purpose of a standard operating procedure (SOP) in a pharmacy?",
+    "back": "An SOP documents the step by step way a task is done, such as the final check or compounding, so every staff member performs it consistently. It reduces variation and errors and supports training and inspections."
+  },
+  {
+    "id": 483,
+    "domain": "professionalism",
+    "front": "Give an example of a key performance indicator (KPI) for pharmacy quality.",
+    "back": "Examples include the rate of reported medication incidents per 1000 prescriptions, proportion of prescriptions with a documented patient counselling session, or wait time to fill. KPIs are measured regularly to track improvement over time."
+  },
+  {
+    "id": 484,
+    "domain": "professionalism",
+    "front": "What does cultural safety mean in pharmacy care for Indigenous patients?",
+    "back": "The patient decides whether care feels safe and respectful. It goes beyond cultural awareness to address power imbalances, colonial history, and racism, using humility, respect, and listening to the patient's context."
+  },
+  {
+    "id": 485,
+    "domain": "professionalism",
+    "front": "How should a pharmacist support a patient who is transgender seeking gender-affirming care?",
+    "back": "Use the patient's chosen name and pronouns, protect confidentiality, and never ask intrusive questions unrelated to care. Provide accurate information on hormone therapy and monitor safely, and avoid assuming anything from the patient's appearance."
+  },
+  {
+    "id": 486,
+    "domain": "professionalism",
+    "front": "What accommodations help patients who have a disability or limited English or French?",
+    "back": "Offer professional interpreters instead of family where possible, large print labels, easy open caps, compliance packaging, and clear plain language counselling. Accommodation is a duty under human rights law, not a favour."
+  },
+  {
+    "id": 487,
+    "domain": "professionalism",
+    "front": "What strategies improve access to pharmacy care for patients in rural or remote areas or with low income?",
+    "back": "Use delivery or mail service, telepharmacy, extended day supplies where allowed, and help finding public or private drug coverage. Consider lower cost generics and patient assistance programs to remove cost barriers."
+  },
+  {
+    "id": 488,
+    "domain": "professionalism",
+    "front": "What rules apply to loyalty programs and incentives tied to prescriptions?",
+    "back": "Rules vary by province. Several provinces limit or prohibit rewards, points, or inducements on prescription purchases because they can influence choice of provider. Check the provincial college and drug plan rules before offering any."
+  },
+  {
+    "id": 489,
+    "domain": "professionalism",
+    "front": "What are the professional conduct rules for pharmacists on social media?",
+    "back": "Never post identifiable patient information or photos without consent, keep a professional tone, avoid giving individual medical advice publicly, and disclose conflicts of interest. Privacy and professional standards apply online as they do in person."
+  },
+  {
+    "id": 490,
+    "domain": "professionalism",
+    "front": "What must a pharmacy do upon discovering loss or theft of narcotics?",
+    "back": "Report to Health Canada's Office of Controlled Substances within 10 days of discovery and notify police as required, then document and review. Prompt reporting helps identify diversion and is a legal requirement."
+  },
+  {
+    "id": 491,
+    "domain": "professionalism",
+    "front": "What should a pharmacist do if they suspect a colleague is impaired or diverting drugs?",
+    "back": "Protect patients first: address the immediate risk, report to the pharmacy manager and the provincial college as required, and document facts, not assumptions. Duty to report concerns about unsafe practice overrides loyalty to a colleague."
+  },
+  {
+    "id": 492,
+    "domain": "professionalism",
+    "front": "What is billing fraud in pharmacy and how is it commonly detected?",
+    "back": "Fraud includes billing a plan for drugs not dispensed or for products different from those dispensed. Audits compare dispensing records, inventory, and purchase invoices with claims, and may lead to recovery of funds and discipline."
+  },
+  {
+    "id": 493,
+    "domain": "professionalism",
+    "front": "Who remains accountable when a pharmacist delegates a task to a regulated pharmacy technician?",
+    "back": "The delegating pharmacist remains accountable for the overall care and for cognitive tasks like assessment and counselling. Regulated technicians are personally accountable for the technical tasks they perform within their scope, which varies by province."
+  },
+  {
+    "id": 494,
+    "domain": "professionalism",
+    "front": "What principle governs supervision of unregulated pharmacy assistants?",
+    "back": "Assistants may only perform non judgmental support tasks under direct supervision, and the pharmacist or technician must be able to oversee and intervene. Assessment, counselling, and the final verification cannot be delegated to unregulated staff."
+  },
+  {
+    "id": 495,
+    "domain": "professionalism",
+    "front": "How long must pharmacies retain prescription records?",
+    "back": "Retention periods vary by province, commonly from two years up to ten years or more. Records for minors may need to be kept longer, and federal rules for narcotics and targeted substances require records for at least two years."
+  },
+  {
+    "id": 496,
+    "domain": "professionalism",
+    "front": "What narcotic records must a pharmacy keep to support inventory audits?",
+    "back": "Keep records of purchases, sales or dispensing, and balances for narcotics, with regular counts that reconcile with them. Discrepancies must be investigated and reported. Records must be retrievable for inspections by Health Canada and the college."
+  },
+  {
+    "id": 497,
+    "domain": "professionalism",
+    "front": "What can a college inspector review during a routine pharmacy inspection?",
+    "back": "Inspectors may review licences, records, narcotic and controlled drug counts, storage conditions, SOPs, incident logs, staffing, and compounding practices. Pharmacies must cooperate, and deficiencies may need a corrective action plan."
+  },
+  {
+    "id": 498,
+    "domain": "clinical_care",
+    "front": "Which antidote treats acetaminophen overdose, and how soon after ingestion is it most effective?",
+    "back": "N-acetylcysteine, ideally started within 8 hours of ingestion to prevent liver injury, though it still helps when given later. A serum level plotted on the Rumack-Matthew nomogram from 4 hours guides the decision."
+  },
+  {
+    "id": 499,
+    "domain": "clinical_care",
+    "front": "Which electrolyte disturbance raises the risk of digoxin toxicity, and what drug class often causes it?",
+    "back": "Hypokalemia, often from loop or thiazide diuretics. Low potassium lets digoxin bind more tightly to the sodium-potassium pump, so toxicity can occur at a normal digoxin level. Monitor potassium and magnesium."
+  },
+  {
+    "id": 500,
+    "domain": "communication_and_collaboration",
+    "front": "What is an open-ended question, and why use it early in a patient interview?",
+    "back": "It cannot be answered with yes or no, for example 'How are you taking this medication each day?' It draws out the patient's own account and reveals problems before you use closed questions to clarify details."
+  }
+]

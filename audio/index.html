@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PEBC Qualifying Exam Part I | Audio Companion</title>
+  <style>
+    :root {
+      --primary: #1B3A6B;
+      --secondary: #0A7E8C;
+      --ink: #1A1A1A;
+      --muted: #666666;
+      --card: #FFFFFF;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      min-height: 100vh;
+      padding: 2rem 1rem 3rem;
+      color: var(--ink);
+    }
+    header { max-width: 760px; margin: 0 auto 1.5rem; color: #fff; text-align: center; }
+    header .brand { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.85; }
+    header h1 { font-size: 1.5rem; font-weight: 800; margin-top: 0.35rem; }
+    header .subtitle { margin-top: 0.5rem; font-size: 0.95rem; opacity: 0.92; line-height: 1.5; }
+    main { max-width: 760px; margin: 0 auto; display: flex; flex-direction: column; gap: 0.9rem; }
+    .chapter-card {
+      background: var(--card); border-radius: 12px; padding: 1rem 1.15rem;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.14);
+    }
+    .chapter-card .num { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--secondary); }
+    .chapter-card h2 { font-size: 1.02rem; margin: 0.25rem 0 0.6rem; }
+    audio { width: 100%; }
+    footer { max-width: 760px; margin: 1.5rem auto 0; color: #fff; font-size: 0.85rem; text-align: center; opacity: 0.9; line-height: 1.5; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">Uprising Test Prep</div>
+    <h1>PEBC Qualifying Exam Part I Audio Companion</h1>
+    <div class="subtitle">Listen to every module review read aloud. Useful during a commute or between cases.</div>
+  </header>
+  <main id="chapter-list"></main>
+  <footer>Tap play on any module below. Audio streams directly in your browser, no app or download required.</footer>
+
+  <script>
+    const CHAPTERS = [
+    {
+        "n": 1,
+        "title": "Cardiovascular Therapeutics",
+        "file": "ch1_cardiovascular_therapeutics.m4a",
+        "present": true
+    },
+    {
+        "n": 2,
+        "title": "Endocrine and Renal Therapeutics",
+        "file": "ch2_endocrine_and_renal_therapeutics.m4a",
+        "present": true
+    },
+    {
+        "n": 3,
+        "title": "Infectious Disease Therapeutics",
+        "file": "ch3_infectious_disease_therapeutics.m4a",
+        "present": true
+    },
+    {
+        "n": 4,
+        "title": "Respiratory Immunologic and Dermatologic Therapeutics",
+        "file": "ch4_respiratory_immunologic_and_dermatologic_therapeutics.m4a",
+        "present": true
+    },
+    {
+        "n": 5,
+        "title": "Neurology Psychiatry and Pain Therapeutics",
+        "file": "ch5_neurology_psychiatry_and_pain_therapeutics.m4a",
+        "present": true
+    },
+    {
+        "n": 6,
+        "title": "Gastrointestinal and Womens Health Therapeutics",
+        "file": "ch6_gastrointestinal_and_womens_health_therapeutics.m4a",
+        "present": true
+    },
+    {
+        "n": 7,
+        "title": "Pediatric Geriatric and Self-Care Pharmacotherapy",
+        "file": "ch7_pediatric_geriatric_and_self_care_pharmacotherapy.m4a",
+        "present": true
+    },
+    {
+        "n": 8,
+        "title": "Prescription Processing and Pharmacy Calculations",
+        "file": "ch8_prescription_processing_and_pharmacy_calculations.m4a",
+        "present": true
+    },
+    {
+        "n": 9,
+        "title": "Compounding Verification and Inventory Management",
+        "file": "ch9_compounding_verification_and_inventory_management.m4a",
+        "present": true
+    },
+    {
+        "n": 10,
+        "title": "Drug Information Literature Evaluation and Biostatistics",
+        "file": "ch10_drug_information_literature_evaluation_and_biostatistics.m4a",
+        "present": true
+    },
+    {
+        "n": 11,
+        "title": "Communication Collaboration Documentation and Public Health",
+        "file": "ch11_communication_collaboration_documentation_and_public_health.m4a",
+        "present": true
+    },
+    {
+        "n": 12,
+        "title": "Jurisprudence Ethics Equity and Patient Safety",
+        "file": "ch12_jurisprudence_ethics_equity_and_patient_safety.m4a",
+        "present": true
+    }
+];
+    const list = document.getElementById("chapter-list");
+    for (const ch of CHAPTERS) {
+      const card = document.createElement("div");
+      card.className = "chapter-card";
+      card.innerHTML = `
+        <div class="num">Module ${ch.n}</div>
+        <h2>${ch.title}</h2>
+        <audio controls preload="none" src="${ch.file}">Your browser does not support the audio element.</audio>
+      `;
+      list.appendChild(card);
+    }
+  </script>
+</body>
+</html>
